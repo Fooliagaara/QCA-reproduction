@@ -1,0 +1,1018 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:03,  1.07s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.30s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:03<00:01,  1.36s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.45s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.39s/it]
+  0%|          | 0/167 [00:00<?, ?it/s]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/86CxyhFV9MI_1.txt
+qwen-vl-utils using decord to read video.
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  1%|          | 1/167 [00:10<29:19, 10.60s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/QJ6sjg7SXOQ_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  1%|          | 2/167 [00:19<25:42,  9.35s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/h4jIoMxZopU_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  2%|▏         | 3/167 [00:26<23:43,  8.68s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/5KLSf7kwr7s_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+  2%|▏         | 4/167 [00:35<23:18,  8.58s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/rZq-8Bq3mkU_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+  3%|▎         | 5/167 [00:43<22:17,  8.26s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/VkNF0rXuDXw_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+  4%|▎         | 6/167 [00:50<21:15,  7.92s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/yn7oTvw8QRY_1.txt
+[h264 @ 0x56172b7a9f40] mmco: unref short failure
+[h264 @ 0x56172b7a9f40] mmco: unref short failure
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+  4%|▍         | 7/167 [00:58<21:00,  7.88s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/_zEM6Fc-7NI_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+  5%|▍         | 8/167 [01:08<22:43,  8.57s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/AnLMDMzO4QY_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+  5%|▌         | 9/167 [01:15<21:43,  8.25s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/QHS9ZZBdK-g_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  6%|▌         | 10/167 [01:24<21:43,  8.30s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/zk6fgbXI5AE_1.txt
+[h264 @ 0x561755dd9f40] mmco: unref short failure
+[h264 @ 0x561755dd9f40] mmco: unref short failure
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+  7%|▋         | 11/167 [01:32<21:26,  8.25s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/OGaML8Gg8JQ_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  7%|▋         | 12/167 [01:41<21:50,  8.46s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/d8H7hgQY9ew_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  8%|▊         | 13/167 [01:50<22:39,  8.83s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/NexB4vj8_54_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  8%|▊         | 14/167 [01:59<22:02,  8.64s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/ydm72ftJStQ_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  9%|▉         | 15/167 [02:06<21:06,  8.33s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/wq90Upjaij8_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 10%|▉         | 16/167 [02:15<21:03,  8.37s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/D7VYbsORD8k_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 10%|█         | 17/167 [02:25<22:06,  8.84s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Fq3zbbp-lv4_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 11%|█         | 18/167 [02:34<22:28,  9.05s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/c6fuIEzOZ2E_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 11%|█▏        | 19/167 [02:44<22:41,  9.20s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/JwoBdRC2fzE_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 12%|█▏        | 20/167 [02:52<21:38,  8.83s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/P0BSTjziVys_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 13%|█▎        | 21/167 [02:59<20:08,  8.28s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/pFtKaT3GF9I_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] False
+ 13%|█▎        | 22/167 [03:08<20:29,  8.48s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/TFbGLEZ4qt0_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 14%|█▍        | 23/167 [03:15<19:26,  8.10s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Lc7RikDaa30_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 14%|█▍        | 24/167 [03:22<18:29,  7.76s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/0WEnmqVVbHo_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 15%|█▍        | 25/167 [03:30<18:45,  7.93s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/2zZSMnGLGao_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 16%|█▌        | 26/167 [03:39<19:06,  8.13s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/fp1r40w_PtA_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 16%|█▌        | 27/167 [03:46<18:28,  7.92s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/ze66pbJYr18_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 17%|█▋        | 28/167 [03:55<19:01,  8.21s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/F8Ma1qs0Rkg_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 17%|█▋        | 29/167 [04:04<19:24,  8.44s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/6Lb1PyJxVQM_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 18%|█▊        | 30/167 [04:14<20:16,  8.88s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/_qepWb_NVj4_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 19%|█▊        | 31/167 [04:24<20:50,  9.20s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/a_8G0PzVFbc_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 19%|█▉        | 32/167 [04:32<19:49,  8.81s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/kk-iRzLv81o_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 20%|█▉        | 33/167 [04:39<18:51,  8.45s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/UN3ICsfqKEY_0.txt
+[h264 @ 0x561753f22d80] mmco: unref short failure
+[h264 @ 0x561753f22d80] mmco: unref short failure
+[h264 @ 0x561753f22d80] mmco: unref short failure
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 20%|██        | 34/167 [04:48<18:54,  8.53s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/2edlqFUTDVc_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 21%|██        | 35/167 [04:56<18:19,  8.33s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/7MemY9jOmuk_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 22%|██▏       | 36/167 [05:03<17:30,  8.02s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/vix2_R79-l4_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 22%|██▏       | 37/167 [05:09<16:05,  7.43s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/US5Oz0q0BVE_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 23%|██▎       | 38/167 [05:15<15:10,  7.06s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/SFfWUrsg4gE_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] False
+ 23%|██▎       | 39/167 [05:22<14:53,  6.98s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/lNReCCShKJQ_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 24%|██▍       | 40/167 [05:28<14:17,  6.75s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/StLBHguzO8s_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 25%|██▍       | 41/167 [05:35<14:05,  6.71s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/tYqDvtknII4_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 25%|██▌       | 42/167 [05:42<13:49,  6.63s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/wGWbI3BHVM8_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 26%|██▌       | 43/167 [05:48<13:27,  6.51s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/m1mGerQhdHA_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 26%|██▋       | 44/167 [05:54<13:13,  6.45s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/tCnelzIAHA0_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 27%|██▋       | 45/167 [06:00<12:47,  6.29s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/WHxBO7XecSY_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 28%|██▊       | 46/167 [06:06<12:18,  6.10s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/fySqsm5kNl4_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 28%|██▊       | 47/167 [06:12<12:05,  6.05s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/aqGQw1bXFN4_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 29%|██▊       | 48/167 [06:17<11:45,  5.93s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/ZfapKqwklG4_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 29%|██▉       | 49/167 [06:23<11:24,  5.80s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/WLl3SeraTV0_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 30%|██▉       | 50/167 [06:28<11:11,  5.74s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/_kQXNFG664Y_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 31%|███       | 51/167 [06:34<10:59,  5.69s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/mB7NW91REF4_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 31%|███       | 52/167 [06:40<11:00,  5.75s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/18rZLZqg6C8_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 32%|███▏      | 53/167 [06:45<10:52,  5.72s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/QpDL3mopnWM_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 32%|███▏      | 54/167 [06:51<10:49,  5.75s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/dxjKdnJFmLs_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 33%|███▎      | 55/167 [06:57<10:46,  5.77s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/gJuOMPiixUA_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 34%|███▎      | 56/167 [07:03<10:52,  5.88s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/g_kziK-UOSU_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 34%|███▍      | 57/167 [07:10<11:11,  6.11s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/rwL_XPw46zQ_2.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 35%|███▍      | 58/167 [07:19<12:30,  6.89s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/mqtJErix0ss_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 35%|███▌      | 59/167 [07:28<13:48,  7.67s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/mS1QPVgBDQo_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 36%|███▌      | 60/167 [07:39<15:12,  8.53s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/CGngv8vTQOs_2.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] False
+ 37%|███▋      | 61/167 [07:47<15:09,  8.58s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/-eRimFrm6kQ_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 37%|███▋      | 62/167 [07:57<15:22,  8.79s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/FnKDgC9aNu0_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 38%|███▊      | 63/167 [08:06<15:22,  8.87s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/XVXczyheik0_2.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 38%|███▊      | 64/167 [08:14<14:50,  8.64s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/8MkL3W6wU3g_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 39%|███▉      | 65/167 [08:25<15:49,  9.31s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/crmV4OduHYA_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 40%|███▉      | 66/167 [08:35<16:12,  9.62s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/d-GKQeu4S6M_2.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 40%|████      | 67/167 [08:43<15:26,  9.26s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/UwJTCg5fpXg_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 41%|████      | 68/167 [08:48<13:10,  7.99s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/1pxrIj9Xyps_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 41%|████▏     | 69/167 [08:58<13:51,  8.48s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/er1oRjH2iu8_2.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 42%|████▏     | 70/167 [09:09<14:51,  9.19s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/s49y2RP5C7E_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 43%|████▎     | 71/167 [09:17<14:22,  8.98s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/yFAuXmcGk2Y_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 43%|████▎     | 72/167 [09:26<13:57,  8.82s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/eE5Z7gDbgVA_2.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 44%|████▎     | 73/167 [09:37<14:53,  9.51s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/tdm72-vYxTs_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 44%|████▍     | 74/167 [09:48<15:21,  9.91s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/iwXp1fT89-M_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 45%|████▍     | 75/167 [09:58<15:25, 10.06s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/aqUisZS9Ruw_2.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 46%|████▌     | 76/167 [10:10<15:55, 10.50s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/J1IwKg2ufk8_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 46%|████▌     | 77/167 [10:20<15:26, 10.30s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/WTT7XZko3qk_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 47%|████▋     | 78/167 [10:30<15:16, 10.30s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Ro_8-CCORzk_2.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 47%|████▋     | 79/167 [10:40<14:52, 10.14s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/T15Kv6dtYO0_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 48%|████▊     | 80/167 [10:48<13:56,  9.62s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Sn7JPKbG6tY_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 49%|████▊     | 81/167 [10:58<14:05,  9.83s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/aVHAr8rc-Ks_2.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 49%|████▉     | 82/167 [11:09<14:09, 10.00s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/bqQTWdk1DAM_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 50%|████▉     | 83/167 [11:19<14:01, 10.02s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/2W2ZkYARds4_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 50%|█████     | 84/167 [11:28<13:31,  9.78s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/yqejTvYILlA_2.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 51%|█████     | 85/167 [11:39<13:44, 10.05s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/8k6M0HD162k_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 51%|█████▏    | 86/167 [11:47<12:58,  9.62s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/vVRC-0VKPrg_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 52%|█████▏    | 87/167 [11:57<12:55,  9.69s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/wSHPuI7wWIg_2.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 53%|█████▎    | 88/167 [12:07<12:48,  9.73s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Dkm35G5kkcc_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 53%|█████▎    | 89/167 [12:16<12:14,  9.42s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/_Y1pW77M3Pg_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 54%|█████▍    | 90/167 [12:25<11:58,  9.33s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/J_ZmaKRpyoU_2.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 54%|█████▍    | 91/167 [12:33<11:30,  9.08s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/oI975O1BUu0_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 55%|█████▌    | 92/167 [12:41<11:00,  8.81s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/xiK00WS0lkE_0.txt
+[h264 @ 0x56172460f980] mmco: unref short failure
+[h264 @ 0x56172460f980] mmco: unref short failure
+[h264 @ 0x56172460f980] mmco: unref short failure
+[h264 @ 0x56172460f980] mmco: unref short failure
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 56%|█████▌    | 93/167 [12:50<10:54,  8.84s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Ytv-9RM4e0o_2.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 56%|█████▋    | 94/167 [12:59<10:48,  8.88s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/s5edwp0PEqk_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 57%|█████▋    | 95/167 [13:09<10:47,  8.99s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/NHIT9vq6mJU_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 57%|█████▋    | 96/167 [13:18<10:39,  9.01s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/LAbtlJJhUlY_2.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 58%|█████▊    | 97/167 [13:27<10:41,  9.16s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/ysRFFN5nzqE_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 59%|█████▊    | 98/167 [13:37<10:37,  9.24s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/4ouAf1ldH60_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 59%|█████▉    | 99/167 [13:47<10:57,  9.66s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/eDso3zHFxL8_2.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 60%|█████▉    | 100/167 [13:56<10:35,  9.48s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/zVudr8cxHRE_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 60%|██████    | 101/167 [14:07<10:47,  9.81s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/bwDfdTh0VYs_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 61%|██████    | 102/167 [14:15<10:03,  9.29s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/wFrztzzohJ8_2.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 62%|██████▏   | 103/167 [14:25<10:02,  9.41s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/ZRMbh0wSly0_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 62%|██████▏   | 104/167 [14:35<10:03,  9.58s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/ZsnfXfuGRrg_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 63%|██████▎   | 105/167 [14:44<09:45,  9.44s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/a_hkRXc_bYg_2.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 63%|██████▎   | 106/167 [14:54<09:43,  9.57s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/mTn_C-SyW84_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 64%|██████▍   | 107/167 [15:03<09:26,  9.44s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/KTY9bogonyw_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 65%|██████▍   | 108/167 [15:12<09:08,  9.29s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/z6THwql5c6w_2.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 65%|██████▌   | 109/167 [15:21<08:59,  9.31s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/DVsw1brd_Yc_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 66%|██████▌   | 110/167 [15:31<08:57,  9.43s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/x4UBaEojM6U_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 66%|██████▋   | 111/167 [15:40<08:47,  9.43s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/fxCRCMLJ0PU_1.txt
+[h264 @ 0x561724e08500] mmco: unref short failure
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 67%|██████▋   | 112/167 [15:47<07:57,  8.69s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/0WEnmqVVbHo_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 68%|██████▊   | 113/167 [15:55<07:38,  8.49s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/D0RyFh0hnkQ_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 68%|██████▊   | 114/167 [16:02<07:09,  8.10s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/mFliMGufpwc_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 69%|██████▉   | 115/167 [16:10<07:01,  8.10s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/HeRS3nwySI8_2.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 69%|██████▉   | 116/167 [16:19<07:02,  8.28s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/YcbKamVxDzI_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 70%|███████   | 117/167 [16:28<07:05,  8.51s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/O471uwTNx6k_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 71%|███████   | 118/167 [16:37<07:02,  8.63s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/X5v4nBo5y28_2.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 71%|███████▏  | 119/167 [16:46<06:51,  8.58s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/O3Hwh0uv8Mg_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 72%|███████▏  | 120/167 [16:54<06:39,  8.50s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/j6beJTHUT_c_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 72%|███████▏  | 121/167 [17:03<06:32,  8.54s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/d5JlCEDlHGE_2.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 73%|███████▎  | 122/167 [17:11<06:16,  8.37s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/kWUmHAzCp7s_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 74%|███████▎  | 123/167 [17:16<05:35,  7.63s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/UO_6TQnnOxM_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 74%|███████▍  | 124/167 [17:27<06:02,  8.44s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/O6UedmnRJc0_2.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 75%|███████▍  | 125/167 [17:37<06:23,  9.13s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/b__dUom9AcQ_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 75%|███████▌  | 126/167 [17:46<06:11,  9.05s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/-An3wZyoYe0_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 76%|███████▌  | 127/167 [17:55<05:59,  8.99s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/58mCJVNMJvw_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 77%|███████▋  | 128/167 [18:01<05:12,  8.03s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@tiffycooks-7022693587703926022_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 77%|███████▋  | 129/167 [18:05<04:18,  6.81s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@_eat_sleep_travel_repeat-7275734357799652640_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 78%|███████▊  | 130/167 [18:11<04:04,  6.62s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@luxtravelbe-7233851486474636570_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 78%|███████▊  | 131/167 [18:17<03:48,  6.36s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@movie.explained6-7252661595875183874_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 79%|███████▉  | 132/167 [18:21<03:18,  5.67s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@jess.morg-7195624647830850858_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 80%|███████▉  | 133/167 [18:25<03:00,  5.31s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@jess.morg-7284004157311421742_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 80%|████████  | 134/167 [18:29<02:42,  4.93s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Jfp1Ks7Hh1E_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 81%|████████  | 135/167 [18:38<03:12,  6.02s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/gJijNOktmoI_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 81%|████████▏ | 136/167 [18:48<03:42,  7.17s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/PCPQToF10IM_2.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] False
+ 82%|████████▏ | 137/167 [18:56<03:42,  7.41s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/kj3Po7zUeyw_1.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 83%|████████▎ | 138/167 [19:05<03:49,  7.91s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/N7RTTiHsSjI_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 83%|████████▎ | 139/167 [19:13<03:41,  7.92s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/sHUEJw1BsGQ_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 84%|████████▍ | 140/167 [19:21<03:36,  8.02s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/LAQRjgx_OY8_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 84%|████████▍ | 141/167 [19:30<03:32,  8.18s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@movie.explained6-7267308320413797650_0.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 85%|████████▌ | 142/167 [19:34<02:57,  7.10s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@movie.explained6-7270058010888768770_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 86%|████████▌ | 143/167 [19:40<02:42,  6.78s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@lisolna-7321010343067618592_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 86%|████████▌ | 144/167 [19:47<02:33,  6.69s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@lisolna-7265680288636767520_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 87%|████████▋ | 145/167 [19:54<02:31,  6.87s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/qZVBFAtfp2A_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] False
+ 87%|████████▋ | 146/167 [20:00<02:18,  6.60s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/VLInjyogciw_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 88%|████████▊ | 147/167 [20:06<02:07,  6.36s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@kelseyinlondon-7068018011139050758_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 89%|████████▊ | 148/167 [20:10<01:47,  5.65s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/0rWA-p4p5IM_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] False
+ 89%|████████▉ | 149/167 [20:19<02:01,  6.72s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/UbNyMSwoT5A_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 90%|████████▉ | 150/167 [20:28<02:03,  7.26s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/1oL4ugMdDvQ_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 90%|█████████ | 151/167 [20:36<02:00,  7.51s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@tiffycooks-7201571680890670342_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 91%|█████████ | 152/167 [20:42<01:49,  7.31s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@thatrecipe.us-7262468242692689194_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 92%|█████████▏| 153/167 [20:48<01:33,  6.69s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@placesunleashed-7324498849857326341_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 92%|█████████▏| 154/167 [20:52<01:17,  5.98s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@placesunleashed-7319588197858610438_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 93%|█████████▎| 155/167 [20:58<01:11,  5.93s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/Z6Hx_BAZeUw_0.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 93%|█████████▎| 156/167 [21:07<01:16,  6.96s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/duxO1EZ650E_2.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 94%|█████████▍| 157/167 [21:16<01:14,  7.49s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/AHeq99pojLo_0.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 95%|█████████▍| 158/167 [21:22<01:03,  7.09s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/3avWNHoEDAg_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 95%|█████████▌| 159/167 [21:29<00:55,  6.91s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/@movie.explained6-7277140989259599105_0.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 96%|█████████▌| 160/167 [21:35<00:47,  6.79s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/lzuixOdhZow_0.txt
+B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 96%|█████████▋| 161/167 [21:41<00:39,  6.61s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/F4bDyyEO4PU_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 97%|█████████▋| 162/167 [21:51<00:37,  7.46s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/sKvvuo9Yxqk_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 98%|█████████▊| 163/167 [22:00<00:31,  7.96s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/by3NxI0dA6w_1.txt
+A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 98%|█████████▊| 164/167 [22:08<00:24,  8.03s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/soNQYQXrx_A_1.txt
+E
+parsed_pred E
+outputs E
+sample_set[acc] True
+ 99%|█████████▉| 165/167 [22:17<00:16,  8.38s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/mFcEWmtn3ag_1.txt
+D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 99%|█████████▉| 166/167 [22:27<00:08,  8.94s/it]args.keyframe_path /data/QCA/keyframes/full
+/data/QCA/keyframes/full/to7vCdkLi4s_1.txt
+C
+parsed_pred C
+outputs C
+sample_set[acc] False
+100%|██████████| 167/167 [22:40<00:00,  9.96s/it]100%|██████████| 167/167 [22:40<00:00,  8.15s/it]

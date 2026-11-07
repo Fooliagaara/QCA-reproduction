@@ -1,0 +1,1357 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 43.72it/s]
+  0%|          | 0/338 [00:00<?, ?it/s]qwen-vl-utils using decord to read video.
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+A
+parsed_pred A
+outputs A
+sample_set[acc] False
+  0%|          | 1/338 [00:09<51:16,  9.13s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+  1%|          | 2/338 [00:17<47:26,  8.47s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  1%|          | 3/338 [00:25<48:01,  8.60s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  1%|          | 4/338 [00:33<46:05,  8.28s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  1%|▏         | 5/338 [00:41<45:02,  8.12s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+  2%|▏         | 6/338 [00:49<44:21,  8.02s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  2%|▏         | 7/338 [00:56<43:01,  7.80s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  2%|▏         | 8/338 [01:04<42:50,  7.79s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  3%|▎         | 9/338 [01:11<42:10,  7.69s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  3%|▎         | 10/338 [01:19<41:19,  7.56s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  3%|▎         | 11/338 [01:26<40:58,  7.52s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+  4%|▎         | 12/338 [01:34<40:49,  7.51s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  4%|▍         | 13/338 [01:42<42:42,  7.88s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+  4%|▍         | 14/338 [01:50<42:10,  7.81s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  4%|▍         | 15/338 [01:57<40:05,  7.45s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  5%|▍         | 16/338 [02:05<41:22,  7.71s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  5%|▌         | 17/338 [02:13<42:20,  7.92s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  5%|▌         | 18/338 [02:21<41:09,  7.72s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  6%|▌         | 19/338 [02:28<39:59,  7.52s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  6%|▌         | 20/338 [02:36<41:23,  7.81s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+  6%|▌         | 21/338 [02:43<40:29,  7.67s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+  7%|▋         | 22/338 [02:51<39:58,  7.59s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  7%|▋         | 23/338 [02:59<40:21,  7.69s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  7%|▋         | 24/338 [03:06<39:54,  7.63s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  7%|▋         | 25/338 [03:13<38:46,  7.43s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  8%|▊         | 26/338 [03:16<31:07,  5.98s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  8%|▊         | 27/338 [03:23<33:29,  6.46s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+  8%|▊         | 28/338 [03:31<34:59,  6.77s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  9%|▊         | 29/338 [03:38<35:36,  6.91s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+  9%|▉         | 30/338 [03:46<36:36,  7.13s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  9%|▉         | 31/338 [03:53<36:28,  7.13s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+  9%|▉         | 32/338 [04:00<35:54,  7.04s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 10%|▉         | 33/338 [04:07<36:12,  7.12s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 10%|█         | 34/338 [04:16<38:31,  7.60s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 10%|█         | 35/338 [04:23<37:04,  7.34s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 11%|█         | 36/338 [04:29<35:41,  7.09s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 11%|█         | 37/338 [04:35<34:11,  6.82s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 11%|█         | 38/338 [04:43<35:45,  7.15s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 12%|█▏        | 39/338 [04:50<35:54,  7.21s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 12%|█▏        | 40/338 [04:58<35:34,  7.16s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 12%|█▏        | 41/338 [05:05<35:31,  7.18s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 12%|█▏        | 42/338 [05:12<36:12,  7.34s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 13%|█▎        | 43/338 [05:20<36:25,  7.41s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 13%|█▎        | 44/338 [05:28<36:47,  7.51s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 13%|█▎        | 45/338 [05:35<36:15,  7.43s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 14%|█▎        | 46/338 [05:43<36:33,  7.51s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 14%|█▍        | 47/338 [05:50<36:41,  7.57s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 14%|█▍        | 48/338 [05:57<35:31,  7.35s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 14%|█▍        | 49/338 [06:05<36:15,  7.53s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 15%|█▍        | 50/338 [06:13<36:08,  7.53s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 15%|█▌        | 51/338 [06:19<34:25,  7.20s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 15%|█▌        | 52/338 [06:27<34:50,  7.31s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 16%|█▌        | 53/338 [06:35<36:31,  7.69s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 16%|█▌        | 54/338 [06:42<34:44,  7.34s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 16%|█▋        | 55/338 [06:49<34:55,  7.40s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 17%|█▋        | 56/338 [06:56<34:20,  7.31s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 17%|█▋        | 57/338 [06:59<27:40,  5.91s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 17%|█▋        | 58/338 [07:02<23:05,  4.95s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 17%|█▋        | 59/338 [07:10<27:28,  5.91s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 18%|█▊        | 60/338 [07:18<30:30,  6.59s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 18%|█▊        | 61/338 [07:26<31:43,  6.87s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 18%|█▊        | 62/338 [07:28<25:04,  5.45s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 19%|█▊        | 63/338 [07:37<29:43,  6.49s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 19%|█▉        | 64/338 [07:39<23:59,  5.26s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 19%|█▉        | 65/338 [07:46<26:12,  5.76s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 20%|█▉        | 66/338 [07:54<28:55,  6.38s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 20%|█▉        | 67/338 [07:57<24:46,  5.49s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 20%|██        | 68/338 [08:00<20:18,  4.51s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 20%|██        | 69/338 [08:07<24:19,  5.43s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 21%|██        | 70/338 [08:09<19:38,  4.40s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 21%|██        | 71/338 [08:15<21:56,  4.93s/it][h264 @ 0x557bad054180] mmco: unref short failure
+D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 21%|██▏       | 72/338 [08:18<19:16,  4.35s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 22%|██▏       | 73/338 [08:26<23:33,  5.33s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 22%|██▏       | 74/338 [08:34<26:34,  6.04s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 22%|██▏       | 75/338 [08:41<28:14,  6.44s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 22%|██▏       | 76/338 [08:48<28:59,  6.64s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 23%|██▎       | 77/338 [08:56<30:28,  7.01s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 23%|██▎       | 78/338 [09:03<30:13,  6.97s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 23%|██▎       | 79/338 [09:10<30:49,  7.14s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 24%|██▎       | 80/338 [09:18<31:11,  7.25s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 24%|██▍       | 81/338 [09:26<32:10,  7.51s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 24%|██▍       | 82/338 [09:34<32:17,  7.57s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 25%|██▍       | 83/338 [09:41<31:43,  7.47s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 25%|██▍       | 84/338 [09:48<30:39,  7.24s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 25%|██▌       | 85/338 [09:55<31:14,  7.41s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 25%|██▌       | 86/338 [10:03<31:50,  7.58s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 26%|██▌       | 87/338 [10:06<25:26,  6.08s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 26%|██▌       | 88/338 [10:12<25:38,  6.15s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 26%|██▋       | 89/338 [10:20<26:54,  6.48s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 27%|██▋       | 90/338 [10:27<28:09,  6.81s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 27%|██▋       | 91/338 [10:35<29:11,  7.09s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 27%|██▋       | 92/338 [10:43<30:22,  7.41s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 28%|██▊       | 93/338 [10:46<24:24,  5.98s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 28%|██▊       | 94/338 [10:54<26:43,  6.57s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 28%|██▊       | 95/338 [11:02<28:15,  6.98s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 28%|██▊       | 96/338 [11:10<29:59,  7.44s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 29%|██▊       | 97/338 [11:18<30:58,  7.71s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 29%|██▉       | 98/338 [11:26<31:02,  7.76s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 29%|██▉       | 99/338 [11:34<30:30,  7.66s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 30%|██▉       | 100/338 [11:42<30:50,  7.77s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 30%|██▉       | 101/338 [11:49<30:32,  7.73s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 30%|███       | 102/338 [11:58<31:02,  7.89s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 30%|███       | 103/338 [12:04<29:39,  7.57s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 31%|███       | 104/338 [12:11<28:08,  7.22s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 31%|███       | 105/338 [12:19<29:29,  7.59s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 31%|███▏      | 106/338 [12:22<23:43,  6.13s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 32%|███▏      | 107/338 [12:24<19:02,  4.95s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 32%|███▏      | 108/338 [12:27<16:46,  4.37s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 32%|███▏      | 109/338 [12:30<14:16,  3.74s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 33%|███▎      | 110/338 [12:38<19:07,  5.03s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 33%|███▎      | 111/338 [12:45<22:05,  5.84s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 33%|███▎      | 112/338 [12:54<24:41,  6.55s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 33%|███▎      | 113/338 [12:56<20:14,  5.40s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 34%|███▎      | 114/338 [13:05<24:27,  6.55s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 34%|███▍      | 115/338 [13:14<26:21,  7.09s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 34%|███▍      | 116/338 [13:24<29:43,  8.03s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 35%|███▍      | 117/338 [13:33<30:05,  8.17s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 35%|███▍      | 118/338 [13:41<30:20,  8.27s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 35%|███▌      | 119/338 [13:50<30:31,  8.36s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 36%|███▌      | 120/338 [13:58<30:36,  8.43s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 36%|███▌      | 121/338 [14:08<32:21,  8.95s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 36%|███▌      | 122/338 [14:18<32:58,  9.16s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 36%|███▋      | 123/338 [14:28<34:09,  9.53s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 37%|███▋      | 124/338 [14:37<32:46,  9.19s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 37%|███▋      | 125/338 [14:45<31:16,  8.81s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 37%|███▋      | 126/338 [14:53<30:24,  8.60s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 38%|███▊      | 127/338 [15:02<30:56,  8.80s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 38%|███▊      | 128/338 [15:11<31:02,  8.87s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 38%|███▊      | 129/338 [15:22<33:03,  9.49s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 38%|███▊      | 130/338 [15:26<27:27,  7.92s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 39%|███▉      | 131/338 [15:30<22:40,  6.57s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 39%|███▉      | 132/338 [15:38<24:40,  7.19s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 39%|███▉      | 133/338 [15:48<26:35,  7.78s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 40%|███▉      | 134/338 [15:55<26:19,  7.74s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 40%|███▉      | 135/338 [16:05<28:05,  8.30s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 40%|████      | 136/338 [16:13<27:32,  8.18s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 41%|████      | 137/338 [16:21<27:12,  8.12s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 41%|████      | 138/338 [16:30<28:02,  8.41s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 41%|████      | 139/338 [16:38<27:23,  8.26s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 41%|████▏     | 140/338 [16:40<21:19,  6.46s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 42%|████▏     | 141/338 [16:52<26:16,  8.00s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 42%|████▏     | 142/338 [17:00<26:43,  8.18s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 42%|████▏     | 143/338 [17:10<28:09,  8.67s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 43%|████▎     | 144/338 [17:18<27:41,  8.57s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 43%|████▎     | 145/338 [17:22<22:25,  6.97s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 43%|████▎     | 146/338 [17:25<18:31,  5.79s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 43%|████▎     | 147/338 [17:34<21:27,  6.74s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 44%|████▍     | 148/338 [17:44<24:26,  7.72s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 44%|████▍     | 149/338 [17:52<25:23,  8.06s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 44%|████▍     | 150/338 [18:01<26:02,  8.31s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 45%|████▍     | 151/338 [18:09<25:50,  8.29s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 45%|████▍     | 152/338 [18:18<25:29,  8.23s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 45%|████▌     | 153/338 [18:27<26:15,  8.52s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 46%|████▌     | 154/338 [18:30<21:23,  6.97s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 46%|████▌     | 155/338 [18:41<24:48,  8.13s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 46%|████▌     | 156/338 [18:54<29:00,  9.56s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 46%|████▋     | 157/338 [19:03<28:07,  9.32s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 47%|████▋     | 158/338 [19:12<27:47,  9.27s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 47%|████▋     | 159/338 [19:21<27:34,  9.24s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 47%|████▋     | 160/338 [19:31<28:07,  9.48s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 48%|████▊     | 161/338 [19:40<27:20,  9.27s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 48%|████▊     | 162/338 [19:43<21:52,  7.46s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 48%|████▊     | 163/338 [19:56<26:18,  9.02s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 49%|████▊     | 164/338 [20:07<28:09,  9.71s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 49%|████▉     | 165/338 [20:19<29:48, 10.34s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 49%|████▉     | 166/338 [20:29<29:32, 10.30s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 49%|████▉     | 167/338 [20:39<29:24, 10.32s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 50%|████▉     | 168/338 [20:51<30:18, 10.70s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 50%|█████     | 169/338 [21:03<30:59, 11.00s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 50%|█████     | 170/338 [21:13<30:28, 10.88s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 51%|█████     | 171/338 [21:17<24:28,  8.80s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 51%|█████     | 172/338 [21:28<26:07,  9.45s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 51%|█████     | 173/338 [21:38<26:23,  9.59s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 51%|█████▏    | 174/338 [21:49<26:56,  9.86s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 52%|█████▏    | 175/338 [21:59<27:30, 10.12s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 52%|█████▏    | 176/338 [22:09<27:09, 10.06s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 52%|█████▏    | 177/338 [22:19<27:00, 10.07s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 53%|█████▎    | 178/338 [22:28<26:05,  9.78s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 53%|█████▎    | 179/338 [22:37<24:53,  9.39s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 53%|█████▎    | 180/338 [22:48<26:17,  9.98s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 54%|█████▎    | 181/338 [22:51<20:33,  7.86s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 54%|█████▍    | 182/338 [23:01<21:38,  8.32s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 54%|█████▍    | 183/338 [23:10<22:21,  8.65s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 54%|█████▍    | 184/338 [23:14<18:15,  7.12s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 55%|█████▍    | 185/338 [23:17<14:59,  5.88s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 55%|█████▌    | 186/338 [23:25<17:08,  6.77s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 55%|█████▌    | 187/338 [23:34<18:40,  7.42s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 56%|█████▌    | 188/338 [23:44<20:05,  8.04s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 56%|█████▌    | 189/338 [23:53<20:51,  8.40s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 56%|█████▌    | 190/338 [24:02<20:55,  8.48s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 57%|█████▋    | 191/338 [24:11<21:11,  8.65s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 57%|█████▋    | 192/338 [24:20<21:19,  8.76s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 57%|█████▋    | 193/338 [24:30<21:54,  9.06s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 57%|█████▋    | 194/338 [24:40<22:44,  9.48s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 58%|█████▊    | 195/338 [24:49<22:32,  9.46s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 58%|█████▊    | 196/338 [24:53<17:57,  7.59s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 58%|█████▊    | 197/338 [25:02<19:02,  8.10s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 59%|█████▊    | 198/338 [25:11<19:23,  8.31s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 59%|█████▉    | 199/338 [25:21<20:30,  8.85s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 59%|█████▉    | 200/338 [25:30<20:16,  8.82s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 59%|█████▉    | 201/338 [25:39<20:29,  8.97s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 60%|█████▉    | 202/338 [25:49<21:19,  9.41s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 60%|██████    | 203/338 [25:59<21:03,  9.36s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 60%|██████    | 204/338 [26:02<17:03,  7.64s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 61%|██████    | 205/338 [26:14<19:23,  8.75s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 61%|██████    | 206/338 [26:22<18:52,  8.58s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 61%|██████    | 207/338 [26:26<16:12,  7.42s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 62%|██████▏   | 208/338 [26:39<19:22,  8.94s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 62%|██████▏   | 209/338 [26:47<18:45,  8.73s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 62%|██████▏   | 210/338 [26:56<18:54,  8.86s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 62%|██████▏   | 211/338 [27:06<19:01,  8.99s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 63%|██████▎   | 212/338 [27:14<18:31,  8.82s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 63%|██████▎   | 213/338 [27:23<18:35,  8.92s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 63%|██████▎   | 214/338 [27:28<15:49,  7.66s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 64%|██████▎   | 215/338 [27:39<17:42,  8.64s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 64%|██████▍   | 216/338 [27:48<17:59,  8.85s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 64%|██████▍   | 217/338 [27:58<18:37,  9.23s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 64%|██████▍   | 218/338 [28:09<19:11,  9.59s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 65%|██████▍   | 219/338 [28:18<18:53,  9.52s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 65%|██████▌   | 220/338 [28:29<19:29,  9.91s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 65%|██████▌   | 221/338 [28:41<20:41, 10.61s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 66%|██████▌   | 222/338 [28:52<20:45, 10.73s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 66%|██████▌   | 223/338 [29:02<20:04, 10.47s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 66%|██████▋   | 224/338 [29:06<15:59,  8.42s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 67%|██████▋   | 225/338 [29:14<16:04,  8.53s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 67%|██████▋   | 226/338 [29:25<17:01,  9.12s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 67%|██████▋   | 227/338 [29:35<17:21,  9.39s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 67%|██████▋   | 228/338 [29:49<19:38, 10.72s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 68%|██████▊   | 229/338 [30:01<20:08, 11.09s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 68%|██████▊   | 230/338 [30:12<20:02, 11.13s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 68%|██████▊   | 231/338 [30:24<20:06, 11.28s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 69%|██████▊   | 232/338 [30:35<19:58, 11.31s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 69%|██████▉   | 233/338 [30:46<19:50, 11.34s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 69%|██████▉   | 234/338 [30:57<19:00, 10.97s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 70%|██████▉   | 235/338 [31:05<17:37, 10.26s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 70%|██████▉   | 236/338 [31:16<17:39, 10.39s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 70%|███████   | 237/338 [31:25<17:01, 10.12s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 70%|███████   | 238/338 [31:34<16:11,  9.72s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 71%|███████   | 239/338 [31:45<16:38, 10.09s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 71%|███████   | 240/338 [31:55<16:20, 10.01s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 71%|███████▏  | 241/338 [32:05<16:08,  9.98s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 72%|███████▏  | 242/338 [32:16<16:39, 10.41s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 72%|███████▏  | 243/338 [32:28<17:14, 10.89s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 72%|███████▏  | 244/338 [32:38<16:42, 10.67s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 72%|███████▏  | 245/338 [32:49<16:39, 10.74s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 73%|███████▎  | 246/338 [33:01<16:56, 11.05s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 73%|███████▎  | 247/338 [33:13<16:59, 11.20s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 73%|███████▎  | 248/338 [33:24<16:45, 11.18s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 74%|███████▎  | 249/338 [33:34<16:19, 11.01s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 74%|███████▍  | 250/338 [33:44<15:45, 10.75s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 74%|███████▍  | 251/338 [33:53<14:45, 10.18s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 75%|███████▍  | 252/338 [34:04<14:52, 10.38s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 75%|███████▍  | 253/338 [34:08<11:55,  8.42s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 75%|███████▌  | 254/338 [34:19<12:44,  9.10s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 75%|███████▌  | 255/338 [34:29<13:16,  9.59s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 76%|███████▌  | 256/338 [34:38<12:50,  9.40s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 76%|███████▌  | 257/338 [34:49<13:10,  9.75s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 76%|███████▋  | 258/338 [34:58<12:47,  9.60s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 77%|███████▋  | 259/338 [35:08<12:52,  9.78s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 77%|███████▋  | 260/338 [35:18<12:33,  9.66s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 77%|███████▋  | 261/338 [35:28<12:28,  9.72s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 78%|███████▊  | 262/338 [35:38<12:38,  9.98s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 78%|███████▊  | 263/338 [35:49<12:35, 10.08s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 78%|███████▊  | 264/338 [36:00<12:46, 10.35s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 78%|███████▊  | 265/338 [36:03<09:58,  8.19s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 79%|███████▊  | 266/338 [36:06<08:14,  6.87s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 79%|███████▉  | 267/338 [36:10<06:51,  5.80s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 79%|███████▉  | 268/338 [36:20<08:12,  7.03s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 80%|███████▉  | 269/338 [36:24<07:03,  6.13s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 80%|███████▉  | 270/338 [36:34<08:29,  7.49s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 80%|████████  | 271/338 [36:44<09:08,  8.19s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 80%|████████  | 272/338 [36:54<09:35,  8.72s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 81%|████████  | 273/338 [37:05<10:12,  9.43s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 81%|████████  | 274/338 [37:15<10:10,  9.55s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 81%|████████▏ | 275/338 [37:28<10:57, 10.43s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 82%|████████▏ | 276/338 [37:41<11:38, 11.27s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 82%|████████▏ | 277/338 [37:51<11:13, 11.04s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 82%|████████▏ | 278/338 [38:01<10:39, 10.66s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 83%|████████▎ | 279/338 [38:06<08:43,  8.88s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 83%|████████▎ | 280/338 [38:17<09:07,  9.44s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 83%|████████▎ | 281/338 [38:29<09:44, 10.26s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 83%|████████▎ | 282/338 [38:44<10:51, 11.63s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 84%|████████▎ | 283/338 [38:55<10:34, 11.54s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 84%|████████▍ | 284/338 [39:07<10:34, 11.75s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 84%|████████▍ | 285/338 [39:19<10:21, 11.73s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 85%|████████▍ | 286/338 [39:32<10:30, 12.12s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 85%|████████▍ | 287/338 [39:43<10:07, 11.92s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 85%|████████▌ | 288/338 [39:55<10:00, 12.01s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 86%|████████▌ | 289/338 [40:01<08:10, 10.01s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 86%|████████▌ | 290/338 [40:13<08:26, 10.56s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 86%|████████▌ | 291/338 [40:24<08:33, 10.93s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 86%|████████▋ | 292/338 [40:37<08:43, 11.38s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 87%|████████▋ | 293/338 [40:41<06:54,  9.20s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 87%|████████▋ | 294/338 [40:51<06:56,  9.47s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 87%|████████▋ | 295/338 [41:02<07:06,  9.91s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 88%|████████▊ | 296/338 [41:12<07:02, 10.05s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 88%|████████▊ | 297/338 [41:25<07:28, 10.93s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 88%|████████▊ | 298/338 [41:36<07:13, 10.84s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 88%|████████▊ | 299/338 [41:47<07:01, 10.82s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 89%|████████▉ | 300/338 [41:57<06:46, 10.71s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 89%|████████▉ | 301/338 [42:08<06:33, 10.65s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 89%|████████▉ | 302/338 [42:17<06:11, 10.33s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 90%|████████▉ | 303/338 [42:28<06:00, 10.30s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 90%|████████▉ | 304/338 [42:40<06:13, 10.99s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 90%|█████████ | 305/338 [42:50<05:53, 10.70s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 91%|█████████ | 306/338 [43:01<05:39, 10.61s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 91%|█████████ | 307/338 [43:13<05:45, 11.13s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 91%|█████████ | 308/338 [43:25<05:39, 11.33s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 91%|█████████▏| 309/338 [43:37<05:34, 11.54s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 92%|█████████▏| 310/338 [43:47<05:13, 11.21s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 92%|█████████▏| 311/338 [43:57<04:49, 10.74s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 92%|█████████▏| 312/338 [44:08<04:40, 10.79s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 93%|█████████▎| 313/338 [44:17<04:20, 10.41s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] True
+ 93%|█████████▎| 314/338 [44:29<04:18, 10.78s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 93%|█████████▎| 315/338 [44:34<03:25,  8.93s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 93%|█████████▎| 316/338 [44:45<03:30,  9.56s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 94%|█████████▍| 317/338 [44:55<03:28,  9.95s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 94%|█████████▍| 318/338 [45:08<03:36, 10.84s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 94%|█████████▍| 319/338 [45:18<03:20, 10.56s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] False
+ 95%|█████████▍| 320/338 [45:29<03:09, 10.54s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 95%|█████████▍| 321/338 [45:41<03:07, 11.03s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 95%|█████████▌| 322/338 [45:45<02:24,  9.01s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 96%|█████████▌| 323/338 [45:55<02:20,  9.35s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 96%|█████████▌| 324/338 [46:08<02:26, 10.45s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 96%|█████████▌| 325/338 [46:18<02:13, 10.27s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] False
+ 96%|█████████▋| 326/338 [46:30<02:08, 10.70s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 97%|█████████▋| 327/338 [46:42<02:02, 11.11s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 97%|█████████▋| 328/338 [46:56<01:58, 11.89s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 97%|█████████▋| 329/338 [47:06<01:41, 11.32s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] False
+ 98%|█████████▊| 330/338 [47:10<01:12,  9.10s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 98%|█████████▊| 331/338 [47:22<01:11, 10.17s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 98%|█████████▊| 332/338 [47:33<01:01, 10.26s/it]B
+parsed_pred B
+outputs B
+sample_set[acc] True
+ 99%|█████████▊| 333/338 [47:44<00:52, 10.46s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+ 99%|█████████▉| 334/338 [47:56<00:43, 10.94s/it]A
+parsed_pred A
+outputs A
+sample_set[acc] True
+ 99%|█████████▉| 335/338 [48:01<00:27,  9.23s/it]D
+parsed_pred D
+outputs D
+sample_set[acc] True
+ 99%|█████████▉| 336/338 [48:12<00:19,  9.64s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+100%|█████████▉| 337/338 [48:26<00:11, 11.09s/it]C
+parsed_pred C
+outputs C
+sample_set[acc] False
+100%|██████████| 338/338 [48:38<00:00, 11.50s/it]100%|██████████| 338/338 [48:38<00:00,  8.64s/it]

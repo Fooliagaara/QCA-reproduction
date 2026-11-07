@@ -1,0 +1,10 @@
+/home/xmu/anaconda3/envs/qca/lib/python3.10/site-packages/huggingface_hub/file_download.py:1142: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+[INFO] Loading labels for dataset=LongVideoBench from /data/QCA/datasets/LongVideoBench
+[INFO] device=cuda:0
+[INFO] total samples=1337
+[INFO] chunk=0/1, video_root=/data/QCA/datasets/LongVideoBench/videos
+[INFO] output directory: /data/QCA/features/full/LongVideoBench/blip
+[INFO] feature directory: /data/QCA/features/full/LongVideoBench/blip/features
+[INFO] ITM directory: /data/QCA/features/full/LongVideoBench/blip/itm
+Processing samples:   0%|          | 0/1337 [00:00<?, ?it/s]Processing samples:   0%|          | 1/1337 [00:55<20:29:29, 55.22s/it]Processing samples:   0%|          | 2/1337 [01:45<19:30:08, 52.59s/it]Processing samples:   0%|          | 3/1337 [03:30<28:14:28, 76.21s/it]Processing samples:   0%|          | 4/1337 [05:16<32:37:28, 88.11s/it]Processing samples:   0%|          | 5/1337 [07:08<35:49:54, 96.84s/it]Processing samples:   0%|          | 6/1337 [09:04<38:08:06, 103.15s/it]Processing samples:   1%|          | 7/1337 [10:24<35:21:59, 95.73s/it] Processing samples:   1%|          | 8/1337 [11:41<33:03:35, 89.55s/it]Processing samples:   1%|          | 9/1337 [13:06<32:33:46, 88.27s/it]

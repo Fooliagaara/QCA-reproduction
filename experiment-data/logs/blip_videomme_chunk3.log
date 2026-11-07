@@ -1,0 +1,351 @@
+[INFO] Loading labels for dataset=Video-MME from /data/QCA/datasets/Video-MME
+[INFO] device=cuda:0
+[INFO] total samples=2700
+[INFO] chunk=3/8, video_root=/data/QCA/datasets/Video-MME/data
+/home/xmu/anaconda3/envs/qca/lib/python3.10/site-packages/huggingface_hub/file_download.py:1142: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+[INFO] output directory: /data/QCA/features/videomme_full/Video-MME/blip
+[INFO] feature directory: /data/QCA/features/videomme_full/Video-MME/blip/features
+[INFO] ITM directory: /data/QCA/features/videomme_full/Video-MME/blip/itm
+Processing samples:   0%|          | 0/2700 [00:00<?, ?it/s][GPU3] [OK] sample=002-1 | video=N1cdUjctpG8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   0%|          | 4/2700 [00:12<2:23:55,  3.20s/it][GPU3] [OK] sample=004-3 | video=HwnB8aCn8yE.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   0%|          | 12/2700 [00:25<1:30:37,  2.02s/it][GPU3] [OK] sample=007-2 | video=0ay2Qy3wBe8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   1%|          | 20/2700 [00:40<1:26:04,  1.93s/it][GPU3] [OK] sample=010-1 | video=PSt_op3fQck.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   1%|          | 28/2700 [00:55<1:24:07,  1.89s/it][GPU3] [OK] sample=012-3 | video=qvwfWyU9Gfc.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   1%|▏         | 36/2700 [01:07<1:18:42,  1.77s/it][GPU3] [OK] sample=015-2 | video=eXKE0nAMmg4.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   2%|▏         | 44/2700 [01:23<1:21:42,  1.85s/it][GPU3] [OK] sample=018-1 | video=tX8a00l_Dfs.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   2%|▏         | 52/2700 [01:36<1:18:26,  1.78s/it][GPU3] [OK] sample=020-3 | video=YPaLGP_xr-w.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   2%|▏         | 60/2700 [01:54<1:24:40,  1.92s/it][GPU3] [OK] sample=023-2 | video=iZYLeIJwe4w.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   3%|▎         | 68/2700 [02:08<1:22:02,  1.87s/it][GPU3] [OK] sample=026-1 | video=XWfqBKeC0g8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   3%|▎         | 76/2700 [02:18<1:13:09,  1.67s/it][GPU3] [OK] sample=028-3 | video=TVkck1ACKDQ.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   3%|▎         | 84/2700 [02:28<1:07:53,  1.56s/it][GPU3] [OK] sample=031-2 | video=TPS22HRRY1k.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   3%|▎         | 92/2700 [02:43<1:10:58,  1.63s/it][GPU3] [OK] sample=034-1 | video=blSnLEZe-sI.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   4%|▎         | 100/2700 [02:56<1:10:14,  1.62s/it][GPU3] [OK] sample=036-3 | video=MXKDvuEkSF0.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   4%|▍         | 108/2700 [03:09<1:10:56,  1.64s/it][GPU3] [OK] sample=039-2 | video=XOJKiOw8Xqo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   4%|▍         | 116/2700 [03:25<1:15:45,  1.76s/it][GPU3] [OK] sample=042-1 | video=kRlhlCWplqk.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   5%|▍         | 124/2700 [03:38<1:12:48,  1.70s/it][GPU3] [OK] sample=044-3 | video=fo0Hmch2YS0.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   5%|▍         | 132/2700 [03:51<1:12:51,  1.70s/it][GPU3] [OK] sample=047-2 | video=WTQ7_e8bnfM.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   5%|▌         | 140/2700 [04:04<1:11:23,  1.67s/it][GPU3] [OK] sample=050-1 | video=08km9Yqbt-A.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   5%|▌         | 148/2700 [04:18<1:11:47,  1.69s/it][GPU3] [OK] sample=052-3 | video=nYLMNQ77FjM.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   6%|▌         | 156/2700 [04:30<1:09:28,  1.64s/it][GPU3] [OK] sample=055-2 | video=K0mjUgHKfJo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   6%|▌         | 164/2700 [04:42<1:06:53,  1.58s/it][GPU3] [OK] sample=058-1 | video=D52rTzibFRc.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   6%|▋         | 172/2700 [04:53<1:04:08,  1.52s/it][GPU3] [OK] sample=060-3 | video=8TNPeimqOO0.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   7%|▋         | 180/2700 [05:08<1:08:46,  1.64s/it][GPU3] [OK] sample=063-2 | video=eTLMWnsStuk.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   7%|▋         | 188/2700 [05:21<1:08:27,  1.64s/it][GPU3] [OK] sample=066-1 | video=x6jPuXwtxCM.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   7%|▋         | 196/2700 [05:37<1:11:44,  1.72s/it][GPU3] [OK] sample=068-3 | video=UZvydHZKyww.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   8%|▊         | 204/2700 [05:49<1:08:55,  1.66s/it][GPU3] [OK] sample=071-2 | video=IzQ2siryQrM.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   8%|▊         | 212/2700 [06:04<1:12:23,  1.75s/it][GPU3] [OK] sample=074-1 | video=HvjgQqNOq9A.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   8%|▊         | 220/2700 [06:18<1:11:14,  1.72s/it][GPU3] [OK] sample=076-3 | video=KOwR0Ln46Ks.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   8%|▊         | 228/2700 [06:31<1:10:17,  1.71s/it][GPU3] [OK] sample=079-2 | video=WViSvPFUVd8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   9%|▊         | 236/2700 [06:46<1:12:11,  1.76s/it][GPU3] [OK] sample=082-1 | video=m4qhFFdHTCc.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   9%|▉         | 244/2700 [06:58<1:08:34,  1.68s/it][GPU3] [OK] sample=084-3 | video=aqTIB_q40bo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:   9%|▉         | 252/2700 [07:10<1:06:42,  1.63s/it][GPU3] [OK] sample=087-2 | video=tF4DML7FIWk.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  10%|▉         | 260/2700 [07:21<1:02:54,  1.55s/it][GPU3] [OK] sample=090-1 | video=c9arR8T0Qts.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  10%|▉         | 268/2700 [07:39<1:11:24,  1.76s/it][GPU3] [OK] sample=092-3 | video=3rTsETO3s9U.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  10%|█         | 276/2700 [07:51<1:08:19,  1.69s/it][GPU3] [OK] sample=095-2 | video=djr6T2C8Gfs.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  11%|█         | 284/2700 [08:02<1:03:22,  1.57s/it][GPU3] [OK] sample=098-1 | video=PU-XOFIJMlg.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  11%|█         | 292/2700 [08:18<1:09:04,  1.72s/it][GPU3] [OK] sample=100-3 | video=56yT3H_DjVE.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  11%|█         | 300/2700 [08:31<1:07:47,  1.69s/it][GPU3] [OK] sample=103-2 | video=G267g0DpCVg.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  11%|█▏        | 308/2700 [08:44<1:06:21,  1.66s/it][GPU3] [OK] sample=106-1 | video=bYXhA8VG8Lw.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  12%|█▏        | 316/2700 [08:58<1:07:42,  1.70s/it][GPU3] [OK] sample=108-3 | video=a0AGwUACt7E.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  12%|█▏        | 324/2700 [09:12<1:06:59,  1.69s/it][GPU3] [OK] sample=111-2 | video=HmnKbBmYii8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  12%|█▏        | 332/2700 [09:24<1:04:49,  1.64s/it][GPU3] [OK] sample=114-1 | video=pcO-alfiyEo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  13%|█▎        | 340/2700 [09:40<1:09:11,  1.76s/it][GPU3] [OK] sample=116-3 | video=qK4G2KpmqFU.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  13%|█▎        | 348/2700 [09:53<1:07:38,  1.73s/it][GPU3] [OK] sample=119-2 | video=-ApL8d6tX5U.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  13%|█▎        | 356/2700 [10:05<1:04:37,  1.65s/it][GPU3] [OK] sample=122-1 | video=Z-rHofd6g2Q.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  13%|█▎        | 364/2700 [10:18<1:03:23,  1.63s/it][GPU3] [OK] sample=124-3 | video=c0siCya457M.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  14%|█▍        | 372/2700 [10:33<1:06:11,  1.71s/it][GPU3] [OK] sample=127-2 | video=YlAefotZNAc.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  14%|█▍        | 380/2700 [10:47<1:06:13,  1.71s/it][GPU3] [OK] sample=130-1 | video=ykJ7pyr87Qc.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  14%|█▍        | 388/2700 [11:00<1:04:58,  1.69s/it][GPU3] [OK] sample=132-3 | video=4V6G0qYVoBg.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  15%|█▍        | 396/2700 [11:11<1:02:05,  1.62s/it][GPU3] [OK] sample=135-2 | video=fJ-hp5Jlbv0.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  15%|█▍        | 404/2700 [11:23<1:00:39,  1.59s/it][GPU3] [OK] sample=138-1 | video=of62s85uMMs.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  15%|█▌        | 412/2700 [11:34<57:30,  1.51s/it]  [GPU3] [OK] sample=140-3 | video=Kv1JXuOkAfk.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  16%|█▌        | 420/2700 [11:47<58:35,  1.54s/it][GPU3] [OK] sample=143-2 | video=PJHkIJZGwKA.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  16%|█▌        | 428/2700 [12:00<58:49,  1.55s/it][GPU3] [OK] sample=146-1 | video=V9fsOaa97F4.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  16%|█▌        | 436/2700 [12:10<55:38,  1.47s/it][GPU3] [OK] sample=148-3 | video=KZu5iE7yrPI.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  16%|█▋        | 444/2700 [12:26<1:01:41,  1.64s/it][GPU3] [OK] sample=151-2 | video=JP67IM1LX-M.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  17%|█▋        | 452/2700 [12:39<1:00:29,  1.61s/it][GPU3] [OK] sample=154-1 | video=1tidNDIpKSY.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  17%|█▋        | 460/2700 [12:53<1:01:57,  1.66s/it][GPU3] [OK] sample=156-3 | video=BkiTScinYOQ.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  17%|█▋        | 468/2700 [13:07<1:03:47,  1.71s/it][GPU3] [OK] sample=159-2 | video=ByUONqA1IJY.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  18%|█▊        | 476/2700 [13:22<1:05:25,  1.77s/it][GPU3] [OK] sample=162-1 | video=8y2Hj7GDcwI.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  18%|█▊        | 484/2700 [13:33<1:00:05,  1.63s/it][GPU3] [OK] sample=164-3 | video=YNV0pLQ3r5U.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  18%|█▊        | 492/2700 [13:46<59:19,  1.61s/it]  [GPU3] [OK] sample=167-2 | video=913JhnW28U4.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  19%|█▊        | 500/2700 [13:59<59:26,  1.62s/it][GPU3] [OK] sample=170-1 | video=E895PNqSgEI.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  19%|█▉        | 508/2700 [14:11<57:48,  1.58s/it][GPU3] [OK] sample=172-3 | video=8W4gbKKNI1E.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  19%|█▉        | 516/2700 [14:26<1:01:11,  1.68s/it][GPU3] [OK] sample=175-2 | video=TblFD8H4j94.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  19%|█▉        | 524/2700 [14:39<1:00:05,  1.66s/it][GPU3] [OK] sample=178-1 | video=IPevXMMEVQ0.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  20%|█▉        | 532/2700 [14:52<1:00:10,  1.67s/it][GPU3] [OK] sample=180-3 | video=54YD3Gv-3MI.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  20%|██        | 540/2700 [15:05<59:54,  1.66s/it]  [GPU3] [OK] sample=183-2 | video=NjxJY7P-Qpo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  20%|██        | 548/2700 [15:16<55:56,  1.56s/it][h264 @ 0x55cbac719bc0] mmco: unref short failure
+[GPU3] [OK] sample=186-1 | video=QhL6ICNQ_So.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  21%|██        | 556/2700 [15:27<53:28,  1.50s/it][GPU3] [OK] sample=188-3 | video=XK6ApJHa59I.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  21%|██        | 564/2700 [15:39<53:35,  1.51s/it][GPU3] [OK] sample=191-2 | video=vQTQJ1Mlzqo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  21%|██        | 572/2700 [15:53<56:05,  1.58s/it][GPU3] [OK] sample=194-1 | video=fRf2aYYPrkc.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  21%|██▏       | 580/2700 [16:07<58:10,  1.65s/it][GPU3] [OK] sample=196-3 | video=lNKtsi2Cu0E.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  22%|██▏       | 588/2700 [16:24<1:02:02,  1.76s/it][h264 @ 0x55cb8ec94fc0] mmco: unref short failure
+[h264 @ 0x55cb8ec94fc0] mmco: unref short failure
+[GPU3] [OK] sample=199-2 | video=sxsjigV9S-Y.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  22%|██▏       | 596/2700 [16:35<58:28,  1.67s/it]  [GPU3] [OK] sample=202-1 | video=QtKT3q7xB4M.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  22%|██▏       | 604/2700 [16:49<59:17,  1.70s/it][GPU3] [OK] sample=204-3 | video=pcm_E7UoKLo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  23%|██▎       | 612/2700 [16:59<53:28,  1.54s/it][GPU3] [OK] sample=207-2 | video=RqA3LAo75kw.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  23%|██▎       | 620/2700 [17:12<55:09,  1.59s/it][GPU3] [OK] sample=210-1 | video=XS6ysDFTbLU.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  23%|██▎       | 628/2700 [17:26<55:57,  1.62s/it][GPU3] [OK] sample=212-3 | video=026dzf-vc5g.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  24%|██▎       | 636/2700 [17:38<54:41,  1.59s/it][GPU3] [OK] sample=215-2 | video=VmNBt1tzC6k.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  24%|██▍       | 644/2700 [17:54<58:01,  1.69s/it][GPU3] [OK] sample=218-1 | video=jmE9y0vv2aM.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  24%|██▍       | 652/2700 [18:06<56:02,  1.64s/it][GPU3] [OK] sample=220-3 | video=D61jenC5oBA.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  24%|██▍       | 660/2700 [18:19<55:49,  1.64s/it][GPU3] [OK] sample=223-2 | video=OCTekmo_szs.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  25%|██▍       | 668/2700 [18:32<55:18,  1.63s/it][GPU3] [OK] sample=226-1 | video=OQAf_rTw7n8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  25%|██▌       | 676/2700 [18:46<56:21,  1.67s/it][GPU3] [OK] sample=228-3 | video=ufZMrlZRn8o.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  25%|██▌       | 684/2700 [19:02<59:18,  1.77s/it][GPU3] [OK] sample=231-2 | video=KfTtpoIovuk.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  26%|██▌       | 692/2700 [19:12<54:42,  1.63s/it][GPU3] [OK] sample=234-1 | video=v0m3E_uSyFg.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  26%|██▌       | 700/2700 [19:26<54:46,  1.64s/it][GPU3] [OK] sample=236-3 | video=NAahAX62MZ0.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  26%|██▌       | 708/2700 [19:39<54:24,  1.64s/it][GPU3] [OK] sample=239-2 | video=VnvG08masio.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  27%|██▋       | 716/2700 [19:54<56:32,  1.71s/it][GPU3] [OK] sample=242-1 | video=lokFoo_QD8c.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  27%|██▋       | 724/2700 [20:09<58:45,  1.78s/it][GPU3] [OK] sample=244-3 | video=9v9NHoTXc-Q.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  27%|██▋       | 732/2700 [20:23<57:57,  1.77s/it][GPU3] [OK] sample=247-2 | video=uVR-DZQuRbM.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  27%|██▋       | 740/2700 [20:35<54:37,  1.67s/it][GPU3] [OK] sample=250-1 | video=2iHmlBmLKUE.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  28%|██▊       | 748/2700 [20:48<54:09,  1.66s/it][GPU3] [OK] sample=252-3 | video=RP1AL2DU6vQ.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  28%|██▊       | 756/2700 [21:03<55:32,  1.71s/it][GPU3] [OK] sample=255-2 | video=CQUphYL0vY8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  28%|██▊       | 764/2700 [21:17<56:16,  1.74s/it][GPU3] [OK] sample=258-1 | video=ZfNSxRiYfZQ.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  29%|██▊       | 772/2700 [21:30<54:37,  1.70s/it][GPU3] [OK] sample=260-3 | video=3E4Zca1p64s.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  29%|██▉       | 780/2700 [21:43<54:03,  1.69s/it][GPU3] [OK] sample=263-2 | video=AyIqI6P8eN8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  29%|██▉       | 788/2700 [21:58<54:59,  1.73s/it][GPU3] [OK] sample=266-1 | video=2gFxZmb0dMo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  29%|██▉       | 796/2700 [22:13<56:08,  1.77s/it][GPU3] [OK] sample=268-3 | video=27YZLpw0M98.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  30%|██▉       | 804/2700 [22:26<54:26,  1.72s/it][GPU3] [OK] sample=271-2 | video=yXl0Vrk5ssk.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  30%|███       | 812/2700 [22:37<50:59,  1.62s/it][GPU3] [OK] sample=274-1 | video=vszWsYOdnPg.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  30%|███       | 820/2700 [22:50<51:05,  1.63s/it][GPU3] [OK] sample=276-3 | video=6Cr_8tvvQ0k.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  31%|███       | 828/2700 [23:01<48:48,  1.56s/it][GPU3] [OK] sample=279-2 | video=hsKmC7RwHvo.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  31%|███       | 836/2700 [23:15<50:28,  1.62s/it][GPU3] [OK] sample=282-1 | video=MiPw-RZMHCQ.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  31%|███▏      | 844/2700 [23:30<51:59,  1.68s/it][GPU3] [OK] sample=284-3 | video=6EIrArTyLVU.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  32%|███▏      | 852/2700 [23:43<51:09,  1.66s/it][GPU3] [OK] sample=287-2 | video=UcL6WlcyBcI.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  32%|███▏      | 860/2700 [23:59<54:31,  1.78s/it][GPU3] [OK] sample=290-1 | video=IRDp5HcZyVA.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  32%|███▏      | 868/2700 [24:13<53:36,  1.76s/it][GPU3] [OK] sample=292-3 | video=DoFmXBjRGmk.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  32%|███▏      | 876/2700 [24:32<58:53,  1.94s/it][GPU3] [OK] sample=295-2 | video=Lv7cYKTYE2g.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  33%|███▎      | 884/2700 [24:44<55:12,  1.82s/it][GPU3] [OK] sample=298-1 | video=4ZK-m01XSQ8.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  33%|███▎      | 892/2700 [24:56<51:45,  1.72s/it][GPU3] [OK] sample=300-3 | video=mBD-TPIHbUs.mp4 | frames=128 | feature_shape=(128, 1024) | itm_shape=(128,)
+Processing samples:  33%|███▎      | 900/2700 [25:10<51:55,  1.73s/it][GPU3] [OK] sample=303-2 | video=kSBB5PsRV-k.mp4 | frames=297 | feature_shape=(297, 1024) | itm_shape=(297,)
+Processing samples:  34%|███▎      | 908/2700 [25:43<1:13:22,  2.46s/it][GPU3] [OK] sample=306-1 | video=s_TGkDcjBqI.mp4 | frames=322 | feature_shape=(322, 1024) | itm_shape=(322,)
+Processing samples:  34%|███▍      | 916/2700 [26:18<1:29:32,  3.01s/it][GPU3] [OK] sample=308-3 | video=wgPymD-NBQU.mp4 | frames=372 | feature_shape=(372, 1024) | itm_shape=(372,)
+Processing samples:  34%|███▍      | 924/2700 [26:59<1:48:11,  3.65s/it][GPU3] [OK] sample=311-2 | video=4jmMWohs1XM.mp4 | frames=356 | feature_shape=(356, 1024) | itm_shape=(356,)
+Processing samples:  35%|███▍      | 932/2700 [27:39<1:59:26,  4.05s/it][GPU3] [OK] sample=314-1 | video=1pHkv4KUiFY.mp4 | frames=266 | feature_shape=(266, 1024) | itm_shape=(266,)
+Processing samples:  35%|███▍      | 940/2700 [28:04<1:51:05,  3.79s/it][GPU3] [OK] sample=316-3 | video=IaTaaNinolU.mp4 | frames=493 | feature_shape=(493, 1024) | itm_shape=(493,)
+Processing samples:  35%|███▌      | 948/2700 [29:00<2:18:48,  4.75s/it][GPU3] [OK] sample=319-2 | video=MrRvX5I8PyY.mp4 | frames=309 | feature_shape=(309, 1024) | itm_shape=(309,)
+Processing samples:  35%|███▌      | 956/2700 [29:41<2:20:48,  4.84s/it][GPU3] [OK] sample=322-1 | video=UZTf3OXJDWA.mp4 | frames=844 | feature_shape=(844, 1024) | itm_shape=(844,)
+Processing samples:  36%|███▌      | 964/2700 [30:52<2:55:31,  6.07s/it][GPU3] [OK] sample=324-3 | video=eWUAB194qhU.mp4 | frames=293 | feature_shape=(293, 1024) | itm_shape=(293,)
+Processing samples:  36%|███▌      | 972/2700 [31:26<2:38:47,  5.51s/it][GPU3] [OK] sample=327-2 | video=iPi-QNYgAa4.mp4 | frames=326 | feature_shape=(326, 1024) | itm_shape=(326,)
+Processing samples:  36%|███▋      | 980/2700 [32:07<2:34:40,  5.40s/it][GPU3] [OK] sample=330-1 | video=cMim0uU1yzA.mp4 | frames=525 | feature_shape=(525, 1024) | itm_shape=(525,)
+Processing samples:  37%|███▋      | 988/2700 [33:06<2:51:09,  6.00s/it][GPU3] [OK] sample=332-3 | video=zIbNJCSCEjk.mp4 | frames=632 | feature_shape=(632, 1024) | itm_shape=(632,)
+Processing samples:  37%|███▋      | 996/2700 [34:16<3:13:47,  6.82s/it][GPU3] [OK] sample=335-2 | video=GPOv72Awo68.mp4 | frames=713 | feature_shape=(713, 1024) | itm_shape=(713,)
+Processing samples:  37%|███▋      | 1004/2700 [35:35<3:38:56,  7.75s/it][GPU3] [OK] sample=338-1 | video=GFTKKyYSCKs.mp4 | frames=306 | feature_shape=(306, 1024) | itm_shape=(306,)
+Processing samples:  37%|███▋      | 1012/2700 [36:10<3:08:54,  6.71s/it][GPU3] [OK] sample=340-3 | video=p7HKvqRI_Bo.mp4 | frames=280 | feature_shape=(280, 1024) | itm_shape=(280,)
+Processing samples:  38%|███▊      | 1020/2700 [36:41<2:44:48,  5.89s/it][GPU3] [OK] sample=343-2 | video=sf4qRY3h_eo.mp4 | frames=910 | feature_shape=(910, 1024) | itm_shape=(910,)
+Processing samples:  38%|███▊      | 1028/2700 [38:27<3:45:45,  8.10s/it][GPU3] [OK] sample=346-1 | video=MaAv2IVzqhM.mp4 | frames=326 | feature_shape=(326, 1024) | itm_shape=(326,)
+Processing samples:  38%|███▊      | 1036/2700 [39:09<3:20:21,  7.22s/it][GPU3] [OK] sample=348-3 | video=HLxvq_M4218.mp4 | frames=400 | feature_shape=(400, 1024) | itm_shape=(400,)
+Processing samples:  39%|███▊      | 1044/2700 [39:51<3:02:55,  6.63s/it][GPU3] [OK] sample=351-2 | video=pmF41T52nJs.mp4 | frames=713 | feature_shape=(713, 1024) | itm_shape=(713,)
+Processing samples:  39%|███▉      | 1052/2700 [41:06<3:24:45,  7.46s/it][GPU3] [OK] sample=354-1 | video=HooZ84rpovQ.mp4 | frames=745 | feature_shape=(745, 1024) | itm_shape=(745,)
+Processing samples:  39%|███▉      | 1060/2700 [42:28<3:46:38,  8.29s/it][GPU3] [OK] sample=356-3 | video=rWp5ZpJAIAE.mp4 | frames=758 | feature_shape=(758, 1024) | itm_shape=(758,)
+Processing samples:  40%|███▉      | 1068/2700 [43:49<4:00:28,  8.84s/it][GPU3] [OK] sample=359-2 | video=QTK_bC00ilg.mp4 | frames=564 | feature_shape=(564, 1024) | itm_shape=(564,)
+Processing samples:  40%|███▉      | 1076/2700 [44:50<3:49:52,  8.49s/it][GPU3] [OK] sample=362-1 | video=TtJVJ9UP7M0.mp4 | frames=465 | feature_shape=(465, 1024) | itm_shape=(465,)
+Processing samples:  40%|████      | 1084/2700 [45:42<3:32:35,  7.89s/it][GPU3] [OK] sample=364-3 | video=3fQxvz4ENDg.mp4 | frames=319 | feature_shape=(319, 1024) | itm_shape=(319,)
+Processing samples:  40%|████      | 1092/2700 [46:19<3:04:56,  6.90s/it][GPU3] [OK] sample=367-2 | video=orVnyudsNuw.mp4 | frames=374 | feature_shape=(374, 1024) | itm_shape=(374,)
+Processing samples:  41%|████      | 1100/2700 [46:56<2:46:33,  6.25s/it][GPU3] [OK] sample=370-1 | video=y3am4T5LuKU.mp4 | frames=447 | feature_shape=(447, 1024) | itm_shape=(447,)
+Processing samples:  41%|████      | 1108/2700 [47:49<2:48:27,  6.35s/it][GPU3] [OK] sample=372-3 | video=phM_SYH6aA0.mp4 | frames=462 | feature_shape=(462, 1024) | itm_shape=(462,)
+Processing samples:  41%|████▏     | 1116/2700 [48:51<2:58:03,  6.74s/it][GPU3] [OK] sample=375-2 | video=axGscDVdHWg.mp4 | frames=924 | feature_shape=(924, 1024) | itm_shape=(924,)
+Processing samples:  42%|████▏     | 1124/2700 [50:38<3:50:11,  8.76s/it][GPU3] [OK] sample=378-1 | video=WOGaS19VZ8Q.mp4 | frames=544 | feature_shape=(544, 1024) | itm_shape=(544,)
+Processing samples:  42%|████▏     | 1132/2700 [52:02<4:02:24,  9.28s/it][GPU3] [OK] sample=380-3 | video=2Bns2m5Bg4M.mp4 | frames=414 | feature_shape=(414, 1024) | itm_shape=(414,)
+Processing samples:  42%|████▏     | 1140/2700 [52:46<3:31:36,  8.14s/it][GPU3] [OK] sample=383-2 | video=e3fz3dqhN44.mp4 | frames=1128 | feature_shape=(1128, 1024) | itm_shape=(1128,)
+Processing samples:  43%|████▎     | 1148/2700 [54:25<4:03:18,  9.41s/it][GPU3] [OK] sample=386-1 | video=yU5kPoc7sL4.mp4 | frames=600 | feature_shape=(600, 1024) | itm_shape=(600,)
+Processing samples:  43%|████▎     | 1156/2700 [55:26<3:48:26,  8.88s/it][GPU3] [OK] sample=388-3 | video=t61Wl2HVwFo.mp4 | frames=760 | feature_shape=(760, 1024) | itm_shape=(760,)
+Processing samples:  43%|████▎     | 1164/2700 [56:56<4:05:39,  9.60s/it][GPU3] [OK] sample=391-2 | video=jIzGzPzdLwM.mp4 | frames=677 | feature_shape=(677, 1024) | itm_shape=(677,)
+Processing samples:  43%|████▎     | 1172/2700 [58:16<4:07:08,  9.70s/it][GPU3] [OK] sample=394-1 | video=V6ui161NyTg.mp4 | frames=367 | feature_shape=(367, 1024) | itm_shape=(367,)
+Processing samples:  44%|████▎     | 1180/2700 [58:49<3:23:09,  8.02s/it][GPU3] [OK] sample=396-3 | video=QI9VIulqTCA.mp4 | frames=394 | feature_shape=(394, 1024) | itm_shape=(394,)
+Processing samples:  44%|████▍     | 1188/2700 [59:30<3:00:20,  7.16s/it][GPU3] [OK] sample=399-2 | video=I5cFBi02O34.mp4 | frames=500 | feature_shape=(500, 1024) | itm_shape=(500,)
+Processing samples:  44%|████▍     | 1196/2700 [1:00:28<3:00:29,  7.20s/it][GPU3] [OK] sample=402-1 | video=44G3dPME330.mp4 | frames=503 | feature_shape=(503, 1024) | itm_shape=(503,)
+Processing samples:  45%|████▍     | 1204/2700 [1:01:24<2:58:05,  7.14s/it][GPU3] [OK] sample=404-3 | video=4aPxxE345OM.mp4 | frames=325 | feature_shape=(325, 1024) | itm_shape=(325,)
+Processing samples:  45%|████▍     | 1212/2700 [1:02:00<2:37:42,  6.36s/it][GPU3] [OK] sample=407-2 | video=QxYHkKLaFmY.mp4 | frames=608 | feature_shape=(608, 1024) | itm_shape=(608,)
+Processing samples:  45%|████▌     | 1220/2700 [1:03:12<2:55:50,  7.13s/it][GPU3] [OK] sample=410-1 | video=uC9qU3X1JgM.mp4 | frames=310 | feature_shape=(310, 1024) | itm_shape=(310,)
+Processing samples:  45%|████▌     | 1228/2700 [1:03:49<2:36:48,  6.39s/it][GPU3] [OK] sample=412-3 | video=xr_nln2ZQw8.mp4 | frames=745 | feature_shape=(745, 1024) | itm_shape=(745,)
+Processing samples:  46%|████▌     | 1236/2700 [1:05:20<3:12:29,  7.89s/it][GPU3] [OK] sample=415-2 | video=HeEyJo838PA.mp4 | frames=413 | feature_shape=(413, 1024) | itm_shape=(413,)
+Processing samples:  46%|████▌     | 1244/2700 [1:06:14<3:03:00,  7.54s/it][GPU3] [OK] sample=418-1 | video=9Y-YJEtxHeo.mp4 | frames=313 | feature_shape=(313, 1024) | itm_shape=(313,)
+Processing samples:  46%|████▋     | 1252/2700 [1:06:52<2:41:42,  6.70s/it][GPU3] [OK] sample=420-3 | video=FEzcqbzTwvA.mp4 | frames=745 | feature_shape=(745, 1024) | itm_shape=(745,)
+Processing samples:  47%|████▋     | 1260/2700 [1:08:18<3:10:21,  7.93s/it][GPU3] [OK] sample=423-2 | video=S6hF2ffyz2c.mp4 | frames=302 | feature_shape=(302, 1024) | itm_shape=(302,)
+Processing samples:  47%|████▋     | 1268/2700 [1:08:58<2:47:47,  7.03s/it][GPU3] [OK] sample=426-1 | video=vv6ATRPUjrI.mp4 | frames=259 | feature_shape=(259, 1024) | itm_shape=(259,)
+Processing samples:  47%|████▋     | 1276/2700 [1:09:26<2:21:58,  5.98s/it][GPU3] [OK] sample=428-3 | video=20gUIdXGuAs.mp4 | frames=756 | feature_shape=(756, 1024) | itm_shape=(756,)
+Processing samples:  48%|████▊     | 1284/2700 [1:10:49<2:52:05,  7.29s/it][GPU3] [OK] sample=431-2 | video=RN1ZC7Tb2Pg.mp4 | frames=518 | feature_shape=(518, 1024) | itm_shape=(518,)
+Processing samples:  48%|████▊     | 1292/2700 [1:11:34<2:39:26,  6.79s/it][GPU3] [OK] sample=434-1 | video=0FM64MrRuZE.mp4 | frames=768 | feature_shape=(768, 1024) | itm_shape=(768,)
+Processing samples:  48%|████▊     | 1300/2700 [1:13:16<3:20:27,  8.59s/it][GPU3] [OK] sample=436-3 | video=erjwCQ-UZyw.mp4 | frames=599 | feature_shape=(599, 1024) | itm_shape=(599,)
+Processing samples:  48%|████▊     | 1308/2700 [1:14:43<3:35:13,  9.28s/it][GPU3] [OK] sample=439-2 | video=kGR4r4Av1ig.mp4 | frames=591 | feature_shape=(591, 1024) | itm_shape=(591,)
+Processing samples:  49%|████▊     | 1316/2700 [1:16:04<3:39:27,  9.51s/it][GPU3] [OK] sample=442-1 | video=kjwjDjQupLc.mp4 | frames=372 | feature_shape=(372, 1024) | itm_shape=(372,)
+Processing samples:  49%|████▉     | 1324/2700 [1:16:56<3:17:11,  8.60s/it][GPU3] [OK] sample=444-3 | video=EavQ0LtEICY.mp4 | frames=581 | feature_shape=(581, 1024) | itm_shape=(581,)
+Processing samples:  49%|████▉     | 1332/2700 [1:18:16<3:25:53,  9.03s/it][GPU3] [OK] sample=447-2 | video=2NOcM1HoRRg.mp4 | frames=688 | feature_shape=(688, 1024) | itm_shape=(688,)
+Processing samples:  50%|████▉     | 1340/2700 [1:19:45<3:39:16,  9.67s/it][GPU3] [OK] sample=450-1 | video=7E6i3E-fsj4.mp4 | frames=893 | feature_shape=(893, 1024) | itm_shape=(893,)
+Processing samples:  50%|████▉     | 1348/2700 [1:21:54<4:21:23, 11.60s/it][GPU3] [OK] sample=452-3 | video=Xim8-lUZnsA.mp4 | frames=519 | feature_shape=(519, 1024) | itm_shape=(519,)
+Processing samples:  50%|█████     | 1356/2700 [1:22:54<3:52:28, 10.38s/it][GPU3] [OK] sample=455-2 | video=KlbDo9o5SC8.mp4 | frames=755 | feature_shape=(755, 1024) | itm_shape=(755,)
+Processing samples:  51%|█████     | 1364/2700 [1:24:33<4:04:31, 10.98s/it][GPU3] [OK] sample=458-1 | video=6ksaVHtfBG8.mp4 | frames=256 | feature_shape=(256, 1024) | itm_shape=(256,)
+Processing samples:  51%|█████     | 1372/2700 [1:25:05<3:16:11,  8.86s/it][GPU3] [OK] sample=460-3 | video=rL9JCz7S8Jg.mp4 | frames=774 | feature_shape=(774, 1024) | itm_shape=(774,)
+Processing samples:  51%|█████     | 1380/2700 [1:26:39<3:33:54,  9.72s/it][GPU3] [OK] sample=463-2 | video=u_f0697yLBI.mp4 | frames=348 | feature_shape=(348, 1024) | itm_shape=(348,)
+Processing samples:  51%|█████▏    | 1388/2700 [1:27:20<3:03:00,  8.37s/it][GPU3] [OK] sample=466-1 | video=UIX6f0xMQ2U.mp4 | frames=357 | feature_shape=(357, 1024) | itm_shape=(357,)
+Processing samples:  52%|█████▏    | 1396/2700 [1:28:04<2:43:20,  7.52s/it][GPU3] [OK] sample=468-3 | video=e-XGSYnhUjg.mp4 | frames=369 | feature_shape=(369, 1024) | itm_shape=(369,)
+Processing samples:  52%|█████▏    | 1404/2700 [1:28:52<2:31:55,  7.03s/it][GPU3] [OK] sample=471-2 | video=vgWlRdNOGx4.mp4 | frames=420 | feature_shape=(420, 1024) | itm_shape=(420,)
+Processing samples:  52%|█████▏    | 1412/2700 [1:29:39<2:23:30,  6.69s/it][GPU3] [OK] sample=474-1 | video=FYqSATdr62Q.mp4 | frames=487 | feature_shape=(487, 1024) | itm_shape=(487,)
+Processing samples:  53%|█████▎    | 1420/2700 [1:30:32<2:22:05,  6.66s/it][GPU3] [OK] sample=476-3 | video=DfZIv2FKWj4.mp4 | frames=385 | feature_shape=(385, 1024) | itm_shape=(385,)
+Processing samples:  53%|█████▎    | 1428/2700 [1:31:22<2:18:54,  6.55s/it][GPU3] [OK] sample=479-2 | video=hQYRDNl-lGI.mp4 | frames=664 | feature_shape=(664, 1024) | itm_shape=(664,)
+Processing samples:  53%|█████▎    | 1436/2700 [1:32:59<2:53:11,  8.22s/it][GPU3] [OK] sample=482-1 | video=-3t1rj8g6yg.mp4 | frames=324 | feature_shape=(324, 1024) | itm_shape=(324,)
+Processing samples:  53%|█████▎    | 1444/2700 [1:33:40<2:32:53,  7.30s/it][GPU3] [OK] sample=484-3 | video=PSyedQl9IiQ.mp4 | frames=381 | feature_shape=(381, 1024) | itm_shape=(381,)
+Processing samples:  54%|█████▍    | 1452/2700 [1:34:12<2:10:59,  6.30s/it][GPU3] [OK] sample=487-2 | video=UeOy1WKeTRY.mp4 | frames=636 | feature_shape=(636, 1024) | itm_shape=(636,)
+Processing samples:  54%|█████▍    | 1460/2700 [1:35:36<2:36:13,  7.56s/it][GPU3] [OK] sample=490-1 | video=azZZZbSwLQght.mp4 | frames=427 | feature_shape=(427, 1024) | itm_shape=(427,)
+Processing samples:  54%|█████▍    | 1468/2700 [1:36:14<2:17:51,  6.71s/it][GPU3] [OK] sample=492-3 | video=qNWL4S5bDt4.mp4 | frames=531 | feature_shape=(531, 1024) | itm_shape=(531,)
+Processing samples:  55%|█████▍    | 1476/2700 [1:37:00<2:11:24,  6.44s/it][GPU3] [OK] sample=495-2 | video=WNYi8LUGIZc.mp4 | frames=700 | feature_shape=(700, 1024) | itm_shape=(700,)
+Processing samples:  55%|█████▍    | 1484/2700 [1:38:28<2:38:18,  7.81s/it][GPU3] [OK] sample=498-1 | video=z2I5J1ArmeM.mp4 | frames=297 | feature_shape=(297, 1024) | itm_shape=(297,)
+Processing samples:  55%|█████▌    | 1492/2700 [1:39:06<2:18:16,  6.87s/it][GPU3] [OK] sample=500-3 | video=MZdvZBy1bE8.mp4 | frames=916 | feature_shape=(916, 1024) | itm_shape=(916,)
+Processing samples:  56%|█████▌    | 1500/2700 [1:40:55<2:58:34,  8.93s/it][GPU3] [OK] sample=503-2 | video=S_MAesZsnMk.mp4 | frames=466 | feature_shape=(466, 1024) | itm_shape=(466,)
+Processing samples:  56%|█████▌    | 1508/2700 [1:41:49<2:43:48,  8.25s/it][GPU3] [OK] sample=506-1 | video=xYdeRoM78h4.mp4 | frames=837 | feature_shape=(837, 1024) | itm_shape=(837,)
+Processing samples:  56%|█████▌    | 1516/2700 [1:43:45<3:20:20, 10.15s/it][GPU3] [OK] sample=508-3 | video=QopYbLq-zIQ.mp4 | frames=773 | feature_shape=(773, 1024) | itm_shape=(773,)
+Processing samples:  56%|█████▋    | 1524/2700 [1:45:35<3:39:40, 11.21s/it][GPU3] [OK] sample=511-2 | video=zbvamKv81o0.mp4 | frames=622 | feature_shape=(622, 1024) | itm_shape=(622,)
+Processing samples:  57%|█████▋    | 1532/2700 [1:46:57<3:32:27, 10.91s/it][GPU3] [OK] sample=514-1 | video=iC56xtbUOnM.mp4 | frames=301 | feature_shape=(301, 1024) | itm_shape=(301,)
+Processing samples:  57%|█████▋    | 1540/2700 [1:47:38<2:57:18,  9.17s/it][GPU3] [OK] sample=516-3 | video=hYTYb5sGznw.mp4 | frames=446 | feature_shape=(446, 1024) | itm_shape=(446,)
+Processing samples:  57%|█████▋    | 1548/2700 [1:48:15<2:29:58,  7.81s/it][GPU3] [OK] sample=519-2 | video=I0xrbzYT4Sc.mp4 | frames=492 | feature_shape=(492, 1024) | itm_shape=(492,)
+Processing samples:  58%|█████▊    | 1556/2700 [1:49:23<2:33:15,  8.04s/it][GPU3] [OK] sample=522-1 | video=0ag_Qi5OEd0.mp4 | frames=488 | feature_shape=(488, 1024) | itm_shape=(488,)
+Processing samples:  58%|█████▊    | 1564/2700 [1:50:17<2:25:03,  7.66s/it][GPU3] [OK] sample=524-3 | video=IqejFRAcys8.mp4 | frames=429 | feature_shape=(429, 1024) | itm_shape=(429,)
+Processing samples:  58%|█████▊    | 1572/2700 [1:51:10<2:17:52,  7.33s/it][GPU3] [OK] sample=527-2 | video=-gnfUTPmnNU.mp4 | frames=305 | feature_shape=(305, 1024) | itm_shape=(305,)
+Processing samples:  59%|█████▊    | 1580/2700 [1:51:44<1:59:35,  6.41s/it][GPU3] [OK] sample=530-1 | video=k7iaAhz2md0.mp4 | frames=423 | feature_shape=(423, 1024) | itm_shape=(423,)
+Processing samples:  59%|█████▉    | 1588/2700 [1:52:41<2:03:06,  6.64s/it][GPU3] [OK] sample=532-3 | video=tdAVvYsU8q8.mp4 | frames=365 | feature_shape=(365, 1024) | itm_shape=(365,)
+Processing samples:  59%|█████▉    | 1596/2700 [1:53:23<1:54:10,  6.21s/it][GPU3] [OK] sample=535-2 | video=ooqdg9Wr-mo.mp4 | frames=501 | feature_shape=(501, 1024) | itm_shape=(501,)
+Processing samples:  59%|█████▉    | 1604/2700 [1:54:41<2:12:49,  7.27s/it][GPU3] [OK] sample=538-1 | video=uhYiRmGURwE.mp4 | frames=726 | feature_shape=(726, 1024) | itm_shape=(726,)
+Processing samples:  60%|█████▉    | 1612/2700 [1:56:19<2:39:11,  8.78s/it][GPU3] [OK] sample=540-3 | video=6DbsOZU8mBM.mp4 | frames=922 | feature_shape=(922, 1024) | itm_shape=(922,)
+Processing samples:  60%|██████    | 1620/2700 [1:58:26<3:16:21, 10.91s/it][GPU3] [OK] sample=543-2 | video=MZEdnBcLcfg.mp4 | frames=483 | feature_shape=(483, 1024) | itm_shape=(483,)
+Processing samples:  60%|██████    | 1628/2700 [1:59:26<2:56:31,  9.88s/it][GPU3] [OK] sample=546-1 | video=x8zGsWuu-e0.mp4 | frames=633 | feature_shape=(633, 1024) | itm_shape=(633,)
+Processing samples:  61%|██████    | 1636/2700 [2:00:52<2:59:20, 10.11s/it][GPU3] [OK] sample=548-3 | video=-fbRaGwfqRw.mp4 | frames=619 | feature_shape=(619, 1024) | itm_shape=(619,)
+Processing samples:  61%|██████    | 1644/2700 [2:01:54<2:45:32,  9.41s/it][GPU3] [OK] sample=551-2 | video=yfbeNtST6Fs.mp4 | frames=767 | feature_shape=(767, 1024) | itm_shape=(767,)
+Processing samples:  61%|██████    | 1652/2700 [2:03:46<3:08:21, 10.78s/it][GPU3] [OK] sample=554-1 | video=QPzmsQ86_HM.mp4 | frames=467 | feature_shape=(467, 1024) | itm_shape=(467,)
+Processing samples:  61%|██████▏   | 1660/2700 [2:04:43<2:48:30,  9.72s/it][GPU3] [OK] sample=556-3 | video=XkFulQe9EVE.mp4 | frames=673 | feature_shape=(673, 1024) | itm_shape=(673,)
+Processing samples:  62%|██████▏   | 1668/2700 [2:06:09<2:52:19, 10.02s/it][GPU3] [OK] sample=559-2 | video=wUnEDnAYTpE.mp4 | frames=576 | feature_shape=(576, 1024) | itm_shape=(576,)
+Processing samples:  62%|██████▏   | 1676/2700 [2:07:18<2:43:39,  9.59s/it][GPU3] [OK] sample=562-1 | video=nhpAc7lUgis.mp4 | frames=295 | feature_shape=(295, 1024) | itm_shape=(295,)
+Processing samples:  62%|██████▏   | 1684/2700 [2:07:58<2:19:24,  8.23s/it][GPU3] [OK] sample=564-3 | video=tPQX0lMk6U0.mp4 | frames=478 | feature_shape=(478, 1024) | itm_shape=(478,)
+Processing samples:  63%|██████▎   | 1692/2700 [2:08:48<2:08:10,  7.63s/it][GPU3] [OK] sample=567-2 | video=sr284c-q8oY.mp4 | frames=629 | feature_shape=(629, 1024) | itm_shape=(629,)
+Processing samples:  63%|██████▎   | 1700/2700 [2:09:59<2:13:31,  8.01s/it][GPU3] [OK] sample=570-1 | video=M_lwC5zPkyo.mp4 | frames=894 | feature_shape=(894, 1024) | itm_shape=(894,)
+Processing samples:  63%|██████▎   | 1708/2700 [2:12:01<2:47:58, 10.16s/it][GPU3] [OK] sample=572-3 | video=IjSISLZCKPs.mp4 | frames=497 | feature_shape=(497, 1024) | itm_shape=(497,)
+Processing samples:  64%|██████▎   | 1716/2700 [2:13:00<2:32:44,  9.31s/it][GPU3] [OK] sample=575-2 | video=cFqLEwAvaHI.mp4 | frames=260 | feature_shape=(260, 1024) | itm_shape=(260,)
+Processing samples:  64%|██████▍   | 1724/2700 [2:13:22<1:59:36,  7.35s/it][GPU3] [OK] sample=578-1 | video=l73rmrLTHQc.mp4 | frames=397 | feature_shape=(397, 1024) | itm_shape=(397,)
+Processing samples:  64%|██████▍   | 1732/2700 [2:14:07<1:50:08,  6.83s/it][GPU3] [OK] sample=580-3 | video=LVRcD_-ht3g.mp4 | frames=518 | feature_shape=(518, 1024) | itm_shape=(518,)
+Processing samples:  64%|██████▍   | 1740/2700 [2:15:13<1:56:02,  7.25s/it][GPU3] [OK] sample=583-2 | video=JwxALozuKfY.mp4 | frames=446 | feature_shape=(446, 1024) | itm_shape=(446,)
+Processing samples:  65%|██████▍   | 1748/2700 [2:16:10<1:54:54,  7.24s/it][GPU3] [OK] sample=586-1 | video=2ka5AleJ48I.mp4 | frames=596 | feature_shape=(596, 1024) | itm_shape=(596,)
+Processing samples:  65%|██████▌   | 1756/2700 [2:17:32<2:07:45,  8.12s/it][GPU3] [OK] sample=588-3 | video=xre_3dxdhkQ.mp4 | frames=567 | feature_shape=(567, 1024) | itm_shape=(567,)
+Processing samples:  65%|██████▌   | 1764/2700 [2:18:50<2:14:43,  8.64s/it][GPU3] [OK] sample=591-2 | video=FMdEkj5HEqg.mp4 | frames=686 | feature_shape=(686, 1024) | itm_shape=(686,)
+Processing samples:  66%|██████▌   | 1772/2700 [2:20:10<2:19:55,  9.05s/it][GPU3] [OK] sample=594-1 | video=GrO5sxp3n0E.mp4 | frames=598 | feature_shape=(598, 1024) | itm_shape=(598,)
+Processing samples:  66%|██████▌   | 1780/2700 [2:21:17<2:15:33,  8.84s/it][GPU3] [OK] sample=596-3 | video=I48vtTxdaeQ.mp4 | frames=564 | feature_shape=(564, 1024) | itm_shape=(564,)
+Processing samples:  66%|██████▌   | 1788/2700 [2:22:24<2:12:12,  8.70s/it][GPU3] [OK] sample=599-2 | video=0JjgoicpYkU.mp4 | frames=729 | feature_shape=(729, 1024) | itm_shape=(729,)
+Processing samples:  67%|██████▋   | 1796/2700 [2:23:57<2:24:11,  9.57s/it][GPU3] [OK] sample=602-1 | video=w0Wmc8C0Eq0.mp4 | frames=2819 | feature_shape=(2819, 1024) | itm_shape=(2819,)
+Processing samples:  67%|██████▋   | 1804/2700 [2:29:19<4:40:07, 18.76s/it][GPU3] [OK] sample=604-3 | video=0RxMZBLeqRI.mp4 | frames=1892 | feature_shape=(1892, 1024) | itm_shape=(1892,)
+Processing samples:  67%|██████▋   | 1812/2700 [2:33:36<5:37:05, 22.78s/it][GPU3] [OK] sample=607-2 | video=zxKPjD8urG4.mp4 | frames=2842 | feature_shape=(2842, 1024) | itm_shape=(2842,)
+Processing samples:  67%|██████▋   | 1820/2700 [2:39:25<7:06:04, 29.05s/it][GPU3] [OK] sample=610-1 | video=O7zcPvQDIMU.mp4 | frames=2795 | feature_shape=(2795, 1024) | itm_shape=(2795,)
+Processing samples:  68%|██████▊   | 1828/2700 [2:44:49<7:51:59, 32.48s/it][GPU3] [OK] sample=612-3 | video=GLW9omJfAdk.mp4 | frames=3173 | feature_shape=(3173, 1024) | itm_shape=(3173,)
+Processing samples:  68%|██████▊   | 1836/2700 [2:50:52<8:43:18, 36.34s/it][GPU3] [OK] sample=615-2 | video=LCfBYE97rFk.mp4 | frames=2560 | feature_shape=(2560, 1024) | itm_shape=(2560,)
+Processing samples:  68%|██████▊   | 1844/2700 [2:55:39<8:36:35, 36.21s/it][GPU3] [OK] sample=618-1 | video=Sm0lziolZyM.mp4 | frames=3540 | feature_shape=(3540, 1024) | itm_shape=(3540,)
+Processing samples:  69%|██████▊   | 1852/2700 [3:01:01<8:48:35, 37.40s/it][GPU3] [OK] sample=620-3 | video=mOiEOs3ZlT8.mp4 | frames=2092 | feature_shape=(2092, 1024) | itm_shape=(2092,)
+Processing samples:  69%|██████▉   | 1860/2700 [3:04:52<8:08:02, 34.86s/it][GPU3] [OK] sample=623-2 | video=gfikT_O4v9A.mp4 | frames=2756 | feature_shape=(2756, 1024) | itm_shape=(2756,)
+Processing samples:  69%|██████▉   | 1868/2700 [3:10:02<8:19:30, 36.02s/it][GPU3] [OK] sample=626-1 | video=Z4Ug2ONxgYw.mp4 | frames=2163 | feature_shape=(2163, 1024) | itm_shape=(2163,)
+Processing samples:  69%|██████▉   | 1876/2700 [3:14:59<8:19:08, 36.35s/it][GPU3] [OK] sample=628-3 | video=YdMCL9_UTE4.mp4 | frames=3115 | feature_shape=(3115, 1024) | itm_shape=(3115,)
+Processing samples:  70%|██████▉   | 1884/2700 [3:20:46<8:43:04, 38.46s/it][GPU3] [OK] sample=631-2 | video=pU_yyadYgG8.mp4 | frames=2141 | feature_shape=(2141, 1024) | itm_shape=(2141,)
+Processing samples:  70%|███████   | 1892/2700 [3:23:49<7:35:08, 33.80s/it][GPU3] [OK] sample=634-1 | video=0ncLRRLvdfk.mp4 | frames=1891 | feature_shape=(1891, 1024) | itm_shape=(1891,)
+Processing samples:  70%|███████   | 1900/2700 [3:27:38<7:09:41, 32.23s/it][GPU3] [OK] sample=636-3 | video=9bbWYVrQgZ8.mp4 | frames=2462 | feature_shape=(2462, 1024) | itm_shape=(2462,)
+Processing samples:  71%|███████   | 1908/2700 [3:32:23<7:18:56, 33.25s/it][GPU3] [OK] sample=639-2 | video=PHe0bXAIuk0.mp4 | frames=1859 | feature_shape=(1859, 1024) | itm_shape=(1859,)
+Processing samples:  71%|███████   | 1916/2700 [3:35:35<6:38:09, 30.47s/it][GPU3] [OK] sample=642-1 | video=lAgwMGRvJrM.mp4 | frames=1803 | feature_shape=(1803, 1024) | itm_shape=(1803,)
+Processing samples:  71%|███████▏  | 1924/2700 [3:38:10<5:51:01, 27.14s/it][GPU3] [OK] sample=644-3 | video=EVBCLAaflaw.mp4 | frames=3047 | feature_shape=(3047, 1024) | itm_shape=(3047,)
+Processing samples:  72%|███████▏  | 1932/2700 [3:42:29<6:07:43, 28.73s/it][GPU3] [OK] sample=647-2 | video=0w4OTD4L0GQ.mp4 | frames=1873 | feature_shape=(1873, 1024) | itm_shape=(1873,)
+Processing samples:  72%|███████▏  | 1940/2700 [3:46:02<5:55:53, 28.10s/it][GPU3] [OK] sample=650-1 | video=55Jas5HrzcQ.mp4 | frames=3247 | feature_shape=(3247, 1024) | itm_shape=(3247,)
+Processing samples:  72%|███████▏  | 1948/2700 [3:52:06<6:57:15, 33.29s/it][GPU3] [OK] sample=652-3 | video=K0m4xAfTVwM.mp4 | frames=3121 | feature_shape=(3121, 1024) | itm_shape=(3121,)
+Processing samples:  72%|███████▏  | 1956/2700 [3:58:42<7:53:24, 38.18s/it][GPU3] [OK] sample=655-2 | video=PXxscnWG8QA.mp4 | frames=2999 | feature_shape=(2999, 1024) | itm_shape=(2999,)
+Processing samples:  73%|███████▎  | 1964/2700 [4:04:46<8:15:21, 40.38s/it][GPU3] [OK] sample=658-1 | video=Ry2dJuJ-9UE.mp4 | frames=2928 | feature_shape=(2928, 1024) | itm_shape=(2928,)
+Processing samples:  73%|███████▎  | 1972/2700 [4:10:31<8:20:00, 41.21s/it][GPU3] [OK] sample=660-3 | video=7MFKy7DJsCY.mp4 | frames=2753 | feature_shape=(2753, 1024) | itm_shape=(2753,)
+Processing samples:  73%|███████▎  | 1980/2700 [4:16:29<8:27:01, 42.25s/it][GPU3] [OK] sample=663-2 | video=eqJPDJr_irE.mp4 | frames=2063 | feature_shape=(2063, 1024) | itm_shape=(2063,)
+Processing samples:  74%|███████▎  | 1988/2700 [4:20:33<7:39:39, 38.74s/it][GPU3] [OK] sample=666-1 | video=mzvHYBgD-tI.mp4 | frames=1894 | feature_shape=(1894, 1024) | itm_shape=(1894,)
+Processing samples:  74%|███████▍  | 1996/2700 [4:24:02<6:49:51, 34.93s/it][GPU3] [OK] sample=668-3 | video=C6aeL83z_9Y.mp4 | frames=2905 | feature_shape=(2905, 1024) | itm_shape=(2905,)
+Processing samples:  74%|███████▍  | 2004/2700 [4:29:28<7:05:42, 36.70s/it][GPU3] [OK] sample=671-2 | video=HnS87Tw4amM.mp4 | frames=1801 | feature_shape=(1801, 1024) | itm_shape=(1801,)
+Processing samples:  75%|███████▍  | 2012/2700 [4:33:04<6:27:17, 33.78s/it][GPU3] [OK] sample=674-1 | video=gKjpYd1Ogwg.mp4 | frames=1920 | feature_shape=(1920, 1024) | itm_shape=(1920,)
+Processing samples:  75%|███████▍  | 2020/2700 [4:36:47<6:02:56, 32.02s/it][GPU3] [OK] sample=676-3 | video=YPzzGPXW8fs.mp4 | frames=2531 | feature_shape=(2531, 1024) | itm_shape=(2531,)
+Processing samples:  75%|███████▌  | 2028/2700 [4:42:06<6:24:51, 34.36s/it][GPU3] [OK] sample=679-2 | video=z7SoAIq20lA.mp4 | frames=3210 | feature_shape=(3210, 1024) | itm_shape=(3210,)
+Processing samples:  75%|███████▌  | 2036/2700 [4:48:13<6:58:39, 37.83s/it][GPU3] [OK] sample=682-1 | video=eKVTFXQPAhs.mp4 | frames=2716 | feature_shape=(2716, 1024) | itm_shape=(2716,)
+Processing samples:  76%|███████▌  | 2044/2700 [4:53:17<6:54:15, 37.89s/it][GPU3] [OK] sample=684-3 | video=NCNeFSJexSY.mp4 | frames=2426 | feature_shape=(2426, 1024) | itm_shape=(2426,)
+Processing samples:  76%|███████▌  | 2052/2700 [4:57:54<6:38:26, 36.89s/it][GPU3] [OK] sample=687-2 | video=yGiM3kD12cU.mp4 | frames=1964 | feature_shape=(1964, 1024) | itm_shape=(1964,)
+Processing samples:  76%|███████▋  | 2060/2700 [5:00:44<5:43:20, 32.19s/it][GPU3] [OK] sample=690-1 | video=b0HfmY64eSE.mp4 | frames=2323 | feature_shape=(2323, 1024) | itm_shape=(2323,)
+Processing samples:  77%|███████▋  | 2068/2700 [5:05:31<5:50:44, 33.30s/it][GPU3] [OK] sample=692-3 | video=TF9I1GxNdJQ.mp4 | frames=1920 | feature_shape=(1920, 1024) | itm_shape=(1920,)
+Processing samples:  77%|███████▋  | 2076/2700 [5:09:03<5:25:03, 31.26s/it][GPU3] [OK] sample=695-2 | video=AnWKOvjFl8k.mp4 | frames=1819 | feature_shape=(1819, 1024) | itm_shape=(1819,)
+Processing samples:  77%|███████▋  | 2084/2700 [5:12:32<5:05:18, 29.74s/it][GPU3] [OK] sample=698-1 | video=KIg4rprmO9Y.mp4 | frames=3131 | feature_shape=(3131, 1024) | itm_shape=(3131,)
+Processing samples:  77%|███████▋  | 2092/2700 [5:18:35<5:48:39, 34.41s/it][GPU3] [OK] sample=700-3 | video=1NYQf_OXDqI.mp4 | frames=3702 | feature_shape=(3702, 1024) | itm_shape=(3702,)
+Processing samples:  78%|███████▊  | 2100/2700 [5:25:41<6:40:33, 40.06s/it][GPU3] [OK] sample=703-2 | video=HP_J8x9lsUg.mp4 | frames=2757 | feature_shape=(2757, 1024) | itm_shape=(2757,)
+Processing samples:  78%|███████▊  | 2108/2700 [5:30:59<6:34:22, 39.97s/it][GPU3] [OK] sample=706-1 | video=ctqn-UJGX5M.mp4 | frames=1868 | feature_shape=(1868, 1024) | itm_shape=(1868,)
+Processing samples:  78%|███████▊  | 2116/2700 [5:34:44<5:54:22, 36.41s/it][GPU3] [OK] sample=708-3 | video=xGcfBRkJSWQ.mp4 | frames=2729 | feature_shape=(2729, 1024) | itm_shape=(2729,)
+Processing samples:  79%|███████▊  | 2124/2700 [5:39:26<5:46:14, 36.07s/it][GPU3] [OK] sample=711-2 | video=XOfeqRgaF1A.mp4 | frames=2545 | feature_shape=(2545, 1024) | itm_shape=(2545,)
+Processing samples:  79%|███████▉  | 2132/2700 [5:44:24<5:45:02, 36.45s/it][GPU3] [OK] sample=714-1 | video=g_1oiJqE3OI.mp4 | frames=2622 | feature_shape=(2622, 1024) | itm_shape=(2622,)
+Processing samples:  79%|███████▉  | 2140/2700 [5:49:46<5:50:40, 37.57s/it][GPU3] [OK] sample=716-3 | video=B9He5DVePvk.mp4 | frames=2545 | feature_shape=(2545, 1024) | itm_shape=(2545,)
+Processing samples:  80%|███████▉  | 2148/2700 [5:54:55<5:48:30, 37.88s/it][GPU3] [OK] sample=719-2 | video=B7Hh0PY1kks.mp4 | frames=3352 | feature_shape=(3352, 1024) | itm_shape=(3352,)
+Processing samples:  80%|███████▉  | 2156/2700 [6:01:48<6:20:52, 42.01s/it][GPU3] [OK] sample=722-1 | video=54H8ppxnp8I.mp4 | frames=2128 | feature_shape=(2128, 1024) | itm_shape=(2128,)
+Processing samples:  80%|████████  | 2164/2700 [6:05:44<5:41:56, 38.28s/it][GPU3] [OK] sample=724-3 | video=54k2g9ddy4M.mp4 | frames=2713 | feature_shape=(2713, 1024) | itm_shape=(2713,)
+Processing samples:  80%|████████  | 2172/2700 [6:11:38<5:52:30, 40.06s/it][GPU3] [OK] sample=727-2 | video=yk4eWjYVNYg.mp4 | frames=2602 | feature_shape=(2602, 1024) | itm_shape=(2602,)
+Processing samples:  81%|████████  | 2180/2700 [6:16:45<5:42:35, 39.53s/it][GPU3] [OK] sample=730-1 | video=1NH5dJ9VRvU.mp4 | frames=2705 | feature_shape=(2705, 1024) | itm_shape=(2705,)
+Processing samples:  81%|████████  | 2188/2700 [6:22:42<5:50:26, 41.07s/it][GPU3] [OK] sample=732-3 | video=xvQOEdwAgj0.mp4 | frames=2550 | feature_shape=(2550, 1024) | itm_shape=(2550,)
+Processing samples:  81%|████████▏ | 2196/2700 [6:28:27<5:50:20, 41.71s/it][GPU3] [OK] sample=735-2 | video=ot4P2G1MRLw.mp4 | frames=2621 | feature_shape=(2621, 1024) | itm_shape=(2621,)
+Processing samples:  82%|████████▏ | 2204/2700 [6:34:18<5:50:03, 42.35s/it][GPU3] [OK] sample=738-1 | video=S8w44Tl5atk.mp4 | frames=2122 | feature_shape=(2122, 1024) | itm_shape=(2122,)
+Processing samples:  82%|████████▏ | 2212/2700 [6:38:03<5:09:41, 38.08s/it][GPU3] [OK] sample=740-3 | video=YcU9d-RPEog.mp4 | frames=2376 | feature_shape=(2376, 1024) | itm_shape=(2376,)
+Processing samples:  82%|████████▏ | 2220/2700 [6:41:27<4:34:21, 34.30s/it][GPU3] [OK] sample=743-2 | video=-QuCz7kxBr8.mp4 | frames=2352 | feature_shape=(2352, 1024) | itm_shape=(2352,)
+Processing samples:  83%|████████▎ | 2228/2700 [6:46:19<4:35:04, 34.97s/it][GPU3] [OK] sample=746-1 | video=kg6L6LL523Q.mp4 | frames=3364 | feature_shape=(3364, 1024) | itm_shape=(3364,)
+Processing samples:  83%|████████▎ | 2236/2700 [6:54:27<5:30:42, 42.76s/it][GPU3] [OK] sample=748-3 | video=mDxrdWZOTpM.mp4 | frames=3350 | feature_shape=(3350, 1024) | itm_shape=(3350,)
+Processing samples:  83%|████████▎ | 2244/2700 [7:02:04<5:57:52, 47.09s/it][GPU3] [OK] sample=751-2 | video=-yWE13LbFd4.mp4 | frames=2085 | feature_shape=(2085, 1024) | itm_shape=(2085,)
+Processing samples:  83%|████████▎ | 2252/2700 [7:07:24<5:35:41, 44.96s/it][GPU3] [OK] sample=754-1 | video=0k2ey_okQ4E.mp4 | frames=2962 | feature_shape=(2962, 1024) | itm_shape=(2962,)
+Processing samples:  84%|████████▎ | 2260/2700 [7:13:34<5:32:29, 45.34s/it][GPU3] [OK] sample=756-3 | video=i1p5PAgNvR0.mp4 | frames=1915 | feature_shape=(1915, 1024) | itm_shape=(1915,)
+Processing samples:  84%|████████▍ | 2268/2700 [7:18:27<5:07:37, 42.73s/it][GPU3] [OK] sample=759-2 | video=aKLobzbLxuY.mp4 | frames=2190 | feature_shape=(2190, 1024) | itm_shape=(2190,)
+Processing samples:  84%|████████▍ | 2276/2700 [7:21:19<4:17:03, 36.38s/it][GPU3] [OK] sample=762-1 | video=gTPHH880Cyc.mp4 | frames=2499 | feature_shape=(2499, 1024) | itm_shape=(2499,)
+Processing samples:  85%|████████▍ | 2284/2700 [7:27:06<4:26:47, 38.48s/it][GPU3] [OK] sample=764-3 | video=8UxGzDeRIJk.mp4 | frames=2506 | feature_shape=(2506, 1024) | itm_shape=(2506,)
+Processing samples:  85%|████████▍ | 2292/2700 [7:33:03<4:33:58, 40.29s/it][GPU3] [OK] sample=767-2 | video=LqaSTy0swNE.mp4 | frames=1921 | feature_shape=(1921, 1024) | itm_shape=(1921,)
+Processing samples:  85%|████████▌ | 2300/2700 [7:35:54<3:50:56, 34.64s/it][GPU3] [OK] sample=770-1 | video=SrqTAg6n798.mp4 | frames=2302 | feature_shape=(2302, 1024) | itm_shape=(2302,)
+Processing samples:  85%|████████▌ | 2308/2700 [7:40:54<3:51:51, 35.49s/it][GPU3] [OK] sample=772-3 | video=HKbJtgUrHGk.mp4 | frames=2448 | feature_shape=(2448, 1024) | itm_shape=(2448,)
+Processing samples:  86%|████████▌ | 2316/2700 [7:45:52<3:50:26, 36.01s/it][GPU3] [OK] sample=775-2 | video=Xjf5N9S3jAA.mp4 | frames=2845 | feature_shape=(2845, 1024) | itm_shape=(2845,)
+Processing samples:  86%|████████▌ | 2324/2700 [7:51:40<3:59:51, 38.28s/it][GPU3] [OK] sample=778-1 | video=rVPDIRSyS34.mp4 | frames=2770 | feature_shape=(2770, 1024) | itm_shape=(2770,)
+Processing samples:  86%|████████▋ | 2332/2700 [7:59:26<4:31:29, 44.27s/it][GPU3] [OK] sample=780-3 | video=0iED5BojTMI.mp4 | frames=2365 | feature_shape=(2365, 1024) | itm_shape=(2365,)
+Processing samples:  87%|████████▋ | 2340/2700 [8:05:02<4:21:28, 43.58s/it][GPU3] [OK] sample=783-2 | video=liDQtpusSmY.mp4 | frames=2613 | feature_shape=(2613, 1024) | itm_shape=(2613,)
+Processing samples:  87%|████████▋ | 2348/2700 [8:10:27<4:10:33, 42.71s/it][GPU3] [OK] sample=786-1 | video=P69idA8JO98.mp4 | frames=2069 | feature_shape=(2069, 1024) | itm_shape=(2069,)
+Processing samples:  87%|████████▋ | 2356/2700 [8:13:40<3:32:45, 37.11s/it][GPU3] [OK] sample=788-3 | video=6dmTmP4Dsw8.mp4 | frames=3680 | feature_shape=(3680, 1024) | itm_shape=(3680,)
+Processing samples:  88%|████████▊ | 2364/2700 [8:22:28<4:16:22, 45.78s/it][GPU3] [OK] sample=791-2 | video=9tBsMSDoDqk.mp4 | frames=2099 | feature_shape=(2099, 1024) | itm_shape=(2099,)
+Processing samples:  88%|████████▊ | 2372/2700 [8:26:58<3:50:30, 42.17s/it][GPU3] [OK] sample=794-1 | video=XDq08lk5GnQ.mp4 | frames=2642 | feature_shape=(2642, 1024) | itm_shape=(2642,)
+Processing samples:  88%|████████▊ | 2380/2700 [8:32:33<3:44:26, 42.08s/it][GPU3] [OK] sample=796-3 | video=_eJsOYC8SVU.mp4 | frames=3731 | feature_shape=(3731, 1024) | itm_shape=(3731,)
+Processing samples:  88%|████████▊ | 2388/2700 [8:40:12<4:02:47, 46.69s/it][GPU3] [OK] sample=799-2 | video=D0ZMmQjKn2Q.mp4 | frames=2513 | feature_shape=(2513, 1024) | itm_shape=(2513,)
+Processing samples:  89%|████████▊ | 2396/2700 [8:44:00<3:28:50, 41.22s/it][GPU3] [OK] sample=802-1 | video=TYmHe20p_zU.mp4 | frames=3038 | feature_shape=(3038, 1024) | itm_shape=(3038,)
+Processing samples:  89%|████████▉ | 2404/2700 [8:50:00<3:28:53, 42.34s/it][GPU3] [OK] sample=804-3 | video=AeEYQ62t8hA.mp4 | frames=2479 | feature_shape=(2479, 1024) | itm_shape=(2479,)
+Processing samples:  89%|████████▉ | 2412/2700 [8:55:06<3:17:23, 41.12s/it][GPU3] [OK] sample=807-2 | video=dLjOLXmu68M.mp4 | frames=1917 | feature_shape=(1917, 1024) | itm_shape=(1917,)
+Processing samples:  90%|████████▉ | 2420/2700 [8:58:51<2:53:44, 37.23s/it][GPU3] [OK] sample=810-1 | video=N62mrplIygc.mp4 | frames=2549 | feature_shape=(2549, 1024) | itm_shape=(2549,)
+Processing samples:  90%|████████▉ | 2428/2700 [9:04:09<2:52:07, 37.97s/it][GPU3] [OK] sample=812-3 | video=yh-EHgkFci4.mp4 | frames=1883 | feature_shape=(1883, 1024) | itm_shape=(1883,)
+Processing samples:  90%|█████████ | 2436/2700 [9:07:52<2:33:42, 34.93s/it][GPU3] [OK] sample=815-2 | video=7TydWUguPRU.mp4 | frames=2581 | feature_shape=(2581, 1024) | itm_shape=(2581,)
+Processing samples:  91%|█████████ | 2444/2700 [9:13:20<2:36:51, 36.76s/it][GPU3] [OK] sample=818-1 | video=Fqptx5fNXR4.mp4 | frames=2202 | feature_shape=(2202, 1024) | itm_shape=(2202,)
+Processing samples:  91%|█████████ | 2452/2700 [9:18:07<2:30:54, 36.51s/it][GPU3] [OK] sample=820-3 | video=SeDGkRfpTqQ.mp4 | frames=3498 | feature_shape=(3498, 1024) | itm_shape=(3498,)
+Processing samples:  91%|█████████ | 2460/2700 [9:26:12<2:54:58, 43.74s/it][GPU3] [OK] sample=823-2 | video=vDzNVHXc66U.mp4 | frames=1961 | feature_shape=(1961, 1024) | itm_shape=(1961,)
+Processing samples:  91%|█████████▏| 2468/2700 [9:31:12<2:41:55, 41.88s/it][GPU3] [OK] sample=826-1 | video=dXBREPP1hfo.mp4 | frames=1911 | feature_shape=(1911, 1024) | itm_shape=(1911,)
+Processing samples:  92%|█████████▏| 2476/2700 [9:34:11<2:14:29, 36.03s/it][GPU3] [OK] sample=828-3 | video=vv2EiRK0Lmg.mp4 | frames=2989 | feature_shape=(2989, 1024) | itm_shape=(2989,)
+Processing samples:  92%|█████████▏| 2484/2700 [9:40:08<2:18:58, 38.60s/it][GPU3] [OK] sample=831-2 | video=6Pt3-NDxzRk.mp4 | frames=1925 | feature_shape=(1925, 1024) | itm_shape=(1925,)
+Processing samples:  92%|█████████▏| 2492/2700 [9:43:03<1:56:21, 33.56s/it][GPU3] [OK] sample=834-1 | video=aqFfjJrLkBA.mp4 | frames=2385 | feature_shape=(2385, 1024) | itm_shape=(2385,)
+Processing samples:  93%|█████████▎| 2500/2700 [9:47:51<1:54:23, 34.32s/it][GPU3] [OK] sample=836-3 | video=wTlERUE8LVw.mp4 | frames=2567 | feature_shape=(2567, 1024) | itm_shape=(2567,)
+Processing samples:  93%|█████████▎| 2508/2700 [9:53:52<2:00:07, 37.54s/it][GPU3] [OK] sample=839-2 | video=azJ5pk5reX0.mp4 | frames=3148 | feature_shape=(3148, 1024) | itm_shape=(3148,)
+Processing samples:  93%|█████████▎| 2516/2700 [9:58:56<1:55:37, 37.71s/it][GPU3] [OK] sample=842-1 | video=CKYw_RG7i7w.mp4 | frames=2072 | feature_shape=(2072, 1024) | itm_shape=(2072,)
+Processing samples:  93%|█████████▎| 2524/2700 [10:03:51<1:49:47, 37.43s/it][GPU3] [OK] sample=844-3 | video=K7YNoRZMv2k.mp4 | frames=1838 | feature_shape=(1838, 1024) | itm_shape=(1838,)
+Processing samples:  94%|█████████▍| 2532/2700 [10:07:56<1:39:04, 35.38s/it][GPU3] [OK] sample=847-2 | video=0eJvnKwGThw.mp4 | frames=1968 | feature_shape=(1968, 1024) | itm_shape=(1968,)
+Processing samples:  94%|█████████▍| 2540/2700 [10:12:47<1:35:13, 35.71s/it][GPU3] [OK] sample=850-1 | video=5Z2_uRf7ckY.mp4 | frames=3128 | feature_shape=(3128, 1024) | itm_shape=(3128,)
+Processing samples:  94%|█████████▍| 2548/2700 [10:17:46<1:31:39, 36.18s/it][GPU3] [OK] sample=852-3 | video=eno3UMEMQJI.mp4 | frames=2132 | feature_shape=(2132, 1024) | itm_shape=(2132,)
+Processing samples:  95%|█████████▍| 2556/2700 [10:22:49<1:28:03, 36.69s/it][GPU3] [OK] sample=855-2 | video=vzfTpidE5wg.mp4 | frames=2053 | feature_shape=(2053, 1024) | itm_shape=(2053,)
+Processing samples:  95%|█████████▍| 2564/2700 [10:27:09<1:20:21, 35.45s/it][GPU3] [OK] sample=858-1 | video=5i5Be73ESUc.mp4 | frames=1843 | feature_shape=(1843, 1024) | itm_shape=(1843,)
+Processing samples:  95%|█████████▌| 2572/2700 [10:31:56<1:15:52, 35.56s/it][GPU3] [OK] sample=860-3 | video=K37YKK9h9pA.mp4 | frames=2189 | feature_shape=(2189, 1024) | itm_shape=(2189,)
+Processing samples:  96%|█████████▌| 2580/2700 [10:36:37<1:10:51, 35.43s/it][GPU3] [OK] sample=863-2 | video=rSnQR7vGqMY.mp4 | frames=2292 | feature_shape=(2292, 1024) | itm_shape=(2292,)
+Processing samples:  96%|█████████▌| 2588/2700 [10:41:52<1:08:23, 36.64s/it][GPU3] [OK] sample=866-1 | video=xNgVeznQmXI.mp4 | frames=2608 | feature_shape=(2608, 1024) | itm_shape=(2608,)
+Processing samples:  96%|█████████▌| 2596/2700 [10:48:56<1:11:59, 41.54s/it][GPU3] [OK] sample=868-3 | video=eZ5lFBPpRkM.mp4 | frames=3329 | feature_shape=(3329, 1024) | itm_shape=(3329,)
+Processing samples:  96%|█████████▋| 2604/2700 [10:56:51<1:15:00, 46.88s/it][GPU3] [OK] sample=871-2 | video=ZkhAbUGoD18.mp4 | frames=1821 | feature_shape=(1821, 1024) | itm_shape=(1821,)
+Processing samples:  97%|█████████▋| 2612/2700 [11:00:40<1:00:42, 41.39s/it][GPU3] [OK] sample=874-1 | video=h1cv8Fsn4eU.mp4 | frames=2071 | feature_shape=(2071, 1024) | itm_shape=(2071,)
+Processing samples:  97%|█████████▋| 2620/2700 [11:05:25<52:52, 39.66s/it]  [GPU3] [OK] sample=876-3 | video=whksDmTR9YE.mp4 | frames=2663 | feature_shape=(2663, 1024) | itm_shape=(2663,)
+Processing samples:  97%|█████████▋| 2628/2700 [11:11:24<49:28, 41.22s/it][GPU3] [OK] sample=879-2 | video=zAXbdzvCeV8.mp4 | frames=2663 | feature_shape=(2663, 1024) | itm_shape=(2663,)
+Processing samples:  98%|█████████▊| 2636/2700 [11:17:31<45:28, 42.63s/it][GPU3] [OK] sample=882-1 | video=qVZOKel-gpE.mp4 | frames=2242 | feature_shape=(2242, 1024) | itm_shape=(2242,)
+Processing samples:  98%|█████████▊| 2644/2700 [11:22:42<38:44, 41.50s/it][GPU3] [OK] sample=884-3 | video=0kRsiSdDFYg.mp4 | frames=2639 | feature_shape=(2639, 1024) | itm_shape=(2639,)
+Processing samples:  98%|█████████▊| 2652/2700 [11:28:47<34:11, 42.74s/it][GPU3] [OK] sample=887-2 | video=proINILL4X4.mp4 | frames=2069 | feature_shape=(2069, 1024) | itm_shape=(2069,)
+Processing samples:  99%|█████████▊| 2660/2700 [11:33:39<27:15, 40.89s/it][GPU3] [OK] sample=890-1 | video=bIQf1HwEqHU.mp4 | frames=2146 | feature_shape=(2146, 1024) | itm_shape=(2146,)
+Processing samples:  99%|█████████▉| 2668/2700 [11:38:03<20:32, 38.52s/it][GPU3] [OK] sample=892-3 | video=8UQFaVCV8S8.mp4 | frames=2457 | feature_shape=(2457, 1024) | itm_shape=(2457,)
+Processing samples:  99%|█████████▉| 2676/2700 [11:44:52<16:55, 42.30s/it][GPU3] [OK] sample=895-2 | video=1O1TfTrEnss.mp4 | frames=2540 | feature_shape=(2540, 1024) | itm_shape=(2540,)
+Processing samples:  99%|█████████▉| 2684/2700 [11:50:23<11:12, 42.02s/it][GPU3] [OK] sample=898-1 | video=K9MQATj3894.mp4 | frames=2081 | feature_shape=(2081, 1024) | itm_shape=(2081,)
+Processing samples: 100%|█████████▉| 2692/2700 [11:55:34<05:28, 41.06s/it][GPU3] [OK] sample=900-3 | video=5KlS-p5eYH8.mp4 | frames=2253 | feature_shape=(2253, 1024) | itm_shape=(2253,)
+Processing samples: 100%|██████████| 2700/2700 [12:00:17<00:00, 39.37s/it]Processing samples: 100%|██████████| 2700/2700 [12:00:17<00:00, 16.01s/it]
