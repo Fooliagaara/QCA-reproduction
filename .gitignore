@@ -1,0 +1,16 @@
+datasets/
+models/
+cache/
+envs/
+features/
+results/
+logs/
+tmp/
+.vscode/
+__pycache__/
+*.pyc
+.env
+.env.*
+keyframes/full/
+keyframes/smoke/
+keyframes/videomme_full/
